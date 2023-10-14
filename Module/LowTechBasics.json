@@ -1,0 +1,43 @@
+{
+    "attributes": [
+        "Stärke",
+        "Geschicklichkeit",
+        "Konstitution",
+        "Wahrnehmung",
+        "Intelligenz",
+        "Willenskraft",
+        "Persönlichkeit",
+        "Glück"
+    ],
+    "skills": {
+        "Akademisch": [
+            "Geschichte",
+            "Navigation"
+        ],
+        "Körperlich": [
+            "Aufmerksamkeit",
+            "Heimlichkeit",
+            "Sportlichkeit"
+        ],
+        "Diebesfertigkeiten": [
+            "Feinmechanik",
+            "Taschendiebstahl",
+            "Verkleiden"
+        ],
+        "Handwerk" :[
+            "Heilkunde",
+            "Beruf"
+        ],
+        "Sozial": [
+            "Anführen",
+            "Einschüchtern",
+            "Umgangsformen",
+            "Verhandeln"
+        ],
+        "Wildnis": [
+            "Jagdkunst",
+            "TierFühren",
+            "Wildniskunde"
+        ]
+    }
+}

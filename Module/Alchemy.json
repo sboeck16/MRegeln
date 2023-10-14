@@ -1,0 +1,25 @@
+{
+    "skills": {
+        "Magie" : [
+            "Alchemie"
+        ]
+    },
+    "paths": {
+        "Alchemie": [
+            "Apparatmeister",
+            "Forscher",
+            "Giftmeister",
+            "Kesselmeister",
+            "Kristallisierer"
+        ]
+    },
+    "masteries": {
+        "Alchemie": [
+            "MeisterAlchemist"
+        ]
+    },
+    "additional": [
+        "Alchemie/Alchemie",
+        "Alchemie/AlchListen"
+    ]
+}

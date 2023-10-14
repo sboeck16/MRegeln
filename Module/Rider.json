@@ -1,0 +1,15 @@
+{
+    "paths": {
+        "Reiterei": [
+            "Bogenkampf",
+            "Nahkampf",
+            "Verbundenheit",
+            "Vertrautheit"
+        ]
+    },
+    "masteries": {
+        "Reiterei": [
+            "Dressurmeister"
+        ]
+    }
+}

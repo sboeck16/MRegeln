@@ -1,0 +1,97 @@
+{
+    "skills": {
+        "Akademisch" : [
+            "Magiekunde"
+        ],
+        "Magie": [
+            "Runenmagie"
+        ]
+    },
+    "paths": {
+        "Magie": [
+            "Bannmagiers",
+            "Heiler",
+            "Körperadept",
+            "Ritual",
+            "verdeckterZauber",
+            "Wort",
+            "Zauberspezialisierung"
+        ]
+    },
+    "masteries": {
+        "Magie" : [
+            "Erzmagier",
+            "Fokimagier",
+            "MeisterderVeränderung",
+            "Festungsmagier",
+            "Meisterder7Winde",
+            "Schlachtmagier",
+            "Schicksalsschmied",
+            "MeisterSpezialist"
+        ]
+    },
+    "additional" :[
+        "Magie/Allgemein",
+        "Magie/Antimagie",
+        "Magie/Kurzregeln",
+        "Magie/ÜbersichtRunen",
+        "Magie/Runen/Allgemein",
+        "Magie/Runen/ANIMA",
+        "Magie/Runen/AN",
+        "Magie/Runen/AROL",
+        "Magie/Runen/AUM",
+        "Magie/Runen/BET",
+        "Magie/Runen/CENSA",
+        "Magie/Runen/CONDUC",
+        "Magie/Runen/DIVIN",
+        "Magie/Runen/EBOR",
+        "Magie/Runen/FERA",
+        "Magie/Runen/FLAM",
+        "Magie/Runen/FLORA",
+        "Magie/Runen/GLADI",
+        "Magie/Runen/HORA",
+        "Magie/Runen/HUMI",
+        "Magie/Runen/INGVA",
+        "Magie/Runen/KOL",
+        "Magie/Runen/KONFAR",
+        "Magie/Runen/LEKO",
+        "Magie/Runen/LEP",
+        "Magie/Runen/LITAX",
+        "Magie/Runen/MAGI",
+        "Magie/Runen/MANARE",
+        "Magie/Runen/MUTAR",
+        "Magie/Runen/MANI",
+        "Magie/Runen/MORT",
+        "Magie/Runen/NOX",
+        "Magie/Runen/OBSEK",
+        "Magie/Runen/PRIX",
+        "Magie/Runen/SCIEN",
+        "Magie/Runen/SICR",
+        "Magie/Runen/SYMA",
+        "Magie/Runen/TEL",
+        "Magie/Runen/TORA",
+        "Magie/Runen/TRIA",
+        "Magie/Runen/UR",
+        "Magie/Runen/VAS",
+        "Magie/Runen/WAKU",
+        "Magie/Grimoirs/Grimoirs",
+        "Magie/Grimoirs/AdeptHeilung",
+        "Magie/Grimoirs/AdeptIllusion",
+        "Magie/Grimoirs/AdeptKampf",
+        "Magie/Grimoirs/AdeptStärkung",
+        "Magie/Grimoirs/MagusHeilung",
+        "Magie/Grimoirs/MagusIllusion",
+        "Magie/Grimoirs/MagusKampf",
+        "Magie/Grimoirs/MagusStärkung",
+        "Magie/Grimoirs/MeisterHeilung",
+        "Magie/Grimoirs/MeisterIllusion",
+        "Magie/Grimoirs/MeisterKampf",
+        "Magie/Grimoirs/MeisterStärkung",
+        "Magie/Grimoirs/SammelBeschwörung",
+        "Magie/Grimoirs/SammelSchwächung",
+        "Magie/Grimoirs/SammelTelepathie",
+        "Magie/Grimoirs/SammelUmwelt",
+        "Magie/Grimoirs/SammelWaldläufer",
+        "Magie/Grimoirs/VerboteneMagie"
+    ]
+}

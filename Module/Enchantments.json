@@ -1,0 +1,54 @@
+{
+    "skills": {
+        "Akademisch" : [
+            "Magiekunde"
+        ],
+        "Magie": [
+            "Verzaubern",
+            "Kristallisieren"
+        ]
+    },
+    "paths": {
+        "Kristallisierer": [
+            "Kristallbeherschung",
+            "Magiefluß",
+            "Nebeladept",
+            "Nebelläufer",
+            "Sammler"
+        ],
+        "Verzauberung": [
+            "Artefaktschmied",
+            "Elementarverzauberer",
+            "Energie",
+            "Geschosse",
+            "InnereMacht",
+            "Krämer",
+            "Macht",
+            "MagieSchild",
+            "MagieWaffe",
+            "Mechanik",
+            "Multiverzauberung",
+            "Schildverzauberer",
+            "Seelenschmied",
+            "Signatur",
+            "Tätowierung"
+        ]
+    },
+    "masteries": {
+        "Kristallisierer": [
+            "Kristallmeister",
+            "Nebelmeister"
+        ],
+        "Verzauberung": [
+            "Artefaktmeister",
+            "InterdisziplinärerMeister",
+            "Runenschmied"
+        ]
+    },
+    "additional" :[
+        "Verzauberung/Verzauberung",
+        "Verzauberung/VerzauberungEnergie",
+        "Verzauberung/Erstellung",
+        "Verzauberung/Artefaktliste"
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "skills": {
+        "Fernkampf": [
+            "Armbrust",
+            "Bögen",
+            "Werfen"
+        ],
+        "Nahkampf": [
+            "Handgemenge",
+            "Hiebwaffen",
+            "Spezialwaffen",
+            "Stangenwaffen"
+        ]
+    },
+    "battle_rules": [
+        "Zustandsmonitor",
+        "Kampfregeln",
+        "Handlungen",
+        "Bewegung",
+        "AngriffVerteidigung",
+        "Gelegenheitsangriffe",
+        "Gelegenheitsangriffe",
+        "Manöver",
+        "Waffenvorteil",
+        "Kampfmagie",
+        "Zustände"
+    ],
+    "paths": {
+        "Fernkampf": [
+            "Fernkampfwaffenexperte",
+            "Scharfschütze",
+            "Schnellschütze",
+            "Trickschütze"
+        ],
+        "Nahkampf": [
+            "Fechter",
+            "Festung",
+            "Geschick",
+            "Geschwindigkeit",
+            "Kämpfer",
+            "Lähmung",
+            "Nahkampfwaffenexperte",
+            "Schild",
+            "Stärke",
+            "Verteidiger",
+            "Verwirrung",
+            "verdeckteKlinge"
+        ]
+    },
+    "masteries": {
+        "Fernkampf": [
+            "Artillerist",
+            "Meisterschütze",
+            "SchnellschussMeister"
+        ],
+        "Nahkampf": [
+            "Axtmeister",
+            "Dolchmeister",
+            "MeisterderBeinarbeit",
+            "Rüstungsmeister",
+            "Schildmeister",
+            "Schwertmeister",
+            "Speermeister",
+            "Stabmeister",
+            "Waffenmeister",
+            "ZweihandMeister",
+            "zweiWaffen"
+        ]
+    }
+}

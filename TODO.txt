@@ -1,0 +1,17 @@
+# MDRegeln zu Ende schreiben (Mistfall & Terra Noctis)
+## Alchemie braucht Beispiele
+## Alchemie braucht ein Rezeptbuch (aber erst programm reparieren, Kritikalität)
+## Magieregelwerk
+## Meisterwege
+## Ausrüstungstabelle, generische Preise
+## Monster und Tiere
+### Programm zum auswerte eines tieres
+## -> Monsterhandbuch
+
+## modul Luftschiffe (kleines modul)
+### kampfregeln grob mit beispiel
+
+---
+
+* Rework der Scripting engine auf module
+* alles ins cobra zusammenstecken inklusive vernünftiger hilfe

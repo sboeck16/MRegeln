@@ -1,0 +1,46 @@
+{
+    "inner_opts":{
+        "-section" : [
+            { "env": "multicols", "args": ["2"] }
+        ],
+        "-tabular" : [
+            { "env": "multicols", "args": ["2"], "invert":true }
+        ]
+    },
+    "outer_opts":{
+        "Spielleiterhinweis": [
+            { "env": "mdframed", "opts" : ["hidealllines=true","backgroundcolor=black!10"] }
+        ],
+        "-Spielleiterhinweis": [
+            { "env": "multicols", "args": ["2"] },
+            { "env": "mdframed", "opts" : ["hidealllines=true","backgroundcolor=black!10"] },
+            { "env": "multicols", "args": ["2"], "invert":true }
+        ]
+    },
+    "headline_opts":{
+        "section" : [
+            { "env": "center" }
+        ],
+        "subsection": [
+            { "env": "center" }
+        ],
+        "-subsection": [
+            { "env": "center" },
+            { "env": "multicols", "args": ["2"], "invert":true }
+        ]
+    },
+    "predefined" : {
+        "small": {
+            "env" : "small"
+        },
+        "footnotesize": {
+            "env" : "footnotesize"
+        },
+        "scriptsize": {
+            "env" : "scriptsize"
+        },
+        "tiny": {
+            "env" : "tiny"
+        }
+    }
+}

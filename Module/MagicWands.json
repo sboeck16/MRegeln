@@ -1,0 +1,17 @@
+{
+    "paths": {
+        "Steckenmagier": [
+            "Kampfmagier",
+            "Kristallmagier",
+            "Runenmagier",
+            "Schnellmagier",
+            "Verzauberer"
+        ]
+    },
+    "masteries": {
+        "Steckenmagier": [
+            "Energiemeister",
+            "Steckenmeister"
+        ]
+    }
+}

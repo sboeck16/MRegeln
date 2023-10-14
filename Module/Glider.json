@@ -1,0 +1,30 @@
+{
+    "skills": {
+        "Körperlich": [
+            "Gleiterflug"
+        ]
+    },
+    "paths": {
+        "Führung" :[
+            "Anführen",
+            "Angriffsformation",
+            "Fliegerformation",
+            "Schützenformation",
+            "Taktik",
+            "Verteidigungsformation"
+       ],
+        "Gleiterflug": [
+            "Bomber",
+            "Kampf",
+            "Kontrolle",
+            "Kunstflug",
+            "Langstreckenflug"
+        ]
+    },
+    "masteries": {
+        "Gleiterflug": [
+            "Flugmeister",
+            "Gleiterkampfmeister"
+        ]
+    }
+}

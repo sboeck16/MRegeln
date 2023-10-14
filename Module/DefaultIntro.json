@@ -1,0 +1,20 @@
+{
+    "intro":        ["Wer"],
+    "charachters":  ["Entwicklung", "Fokus", "Storypunkte"],
+    "dices":        ["WieWas"],
+    "paths": {
+        "AllgemeinHandwerk": [
+            "Fokus",
+            "Handwerk",
+            "Juggernaut",
+            "Schicksal",
+            "Wissen"
+        ]
+    },
+    "masteries": {
+        "AllgemeinHandwerk": [
+            "MeisterHandwerk",
+            "KonzentrationsMeister"
+        ]
+    }
+}

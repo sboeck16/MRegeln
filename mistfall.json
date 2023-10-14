@@ -1,0 +1,19 @@
+{
+    "modules": [
+        "Module/DefaultIntro.json",
+        "Module/LowTechBasics.json",
+        "Module/LowTechBattleLP.json",
+        "Module/Glider.json",
+        "Module/Rider.json",
+        "Module/MagicBasic.json",
+        "Module/MagicWands.json",
+        "Module/Enchantments.json",
+        "Module/Alchemy.json"
+    ],
+    "skills": {
+        "Wildnis": [
+            "Nebelkunde",
+            "Nebelkreaturen"
+        ]
+    }
+}
