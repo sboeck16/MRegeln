@@ -14,7 +14,8 @@
     "masteries": {
         "AllgemeinHandwerk": [
             "MeisterHandwerk",
-            "KonzentrationsMeister"
+            "KonzentrationsMeister",
+            "Überlebensmeister"
         ]
     }
 }
