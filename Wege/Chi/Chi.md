@@ -1,4 +1,4 @@
-#### Chi
+#### Weg des Chi
 
 * Meditation: Der Charakter hat zwei zusätzliche Fokuspunkte. Diese regenerieren nur wenn zusätzlich pro Punkt 1h
 meditiert wird. Das gilt für alle Fokuspunkte die mit diesem oder dem Meisterweg des Chi erhalten werden.

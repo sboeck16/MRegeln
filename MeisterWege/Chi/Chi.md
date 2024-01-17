@@ -1,4 +1,4 @@
-#### Chi
+### Meisterweg des Chi
 
 * Atemtechniken: Zum Meditieren wird nur noch eine Zeitspanne von 10min pro Fokuspunkt gebraucht. Das gilt auch für
 den Meisterweg des Fokus. Der Charakter hat einen zusätzlichen Fokuspunkt.
