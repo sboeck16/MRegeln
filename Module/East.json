@@ -1,0 +1,28 @@
+{
+    "paths": {
+        "Chi": [
+            "ChiWeg",
+            "DrunkenMaster",
+            "Erde",
+            "Feuer",
+            "Holz",
+            "Metall",
+            "Schatten",
+            "Strohhut",
+            "Wasser",
+            "Wolken"
+        ]
+    },
+    "masteries": {
+        "Chi": [
+            "ChiWeg",
+            "Erde",
+            "Feuer",
+            "Holz",
+            "Metall",
+            "Schatten",
+            "Wasser",
+            "Wolken"
+        ]
+    }
+}

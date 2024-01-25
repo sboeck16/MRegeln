@@ -8,7 +8,8 @@
         "Module/MagicBasic.json",
         "Module/MagicWands.json",
         "Module/Enchantments.json",
-        "Module/Alchemy.json"
+        "Module/Alchemy.json",
+        "Module/East.json"
     ],
     "skills": {
         "Wildnis": [
