@@ -1,0 +1,11 @@
+{
+    "additional": [
+        "Ausrüstung/Ausrüstung",
+        "Ausrüstung/Tragen",
+        "Ausrüstung/Geld",
+        "Ausrüstung/Materialien",
+        "Ausrüstung/Kleidung",
+        "Ausrüstung/Waffen",
+        "Ausrüstung/Gebäude"
+    ]
+}

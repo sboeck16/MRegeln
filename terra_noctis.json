@@ -1,0 +1,13 @@
+{
+    "modules": [
+        "Module/DefaultIntro.json",
+        "Module/LowTechBasics.json",
+        "Module/LowTechBattleLP.json",
+        "Module/Rider.json",
+        "Module/MagicBasic.json",
+        "Module/Enchantments.json",
+        "Module/Alchemy.json",
+        "Module/East.json",
+        "Module/EquipmentSurvival"
+    ]
+}

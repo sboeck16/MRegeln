@@ -52,7 +52,6 @@ func addCharacterSheet(doc *latex.Doc, rules *RuleBook) {
 	tDesc.AddRowStr("Beschreibung:", "", "")
 	tDesc.AddRowStr("", "", "")
 	tDesc.AddRowStr("", "", "")
-	tDesc.AddRowStr("", "", "")
 	sheet.AddRaw(`\hline`)
 
 	// ATTRIBUTS
@@ -95,9 +94,18 @@ func addCharacterSheet(doc *latex.Doc, rules *RuleBook) {
 		latex.BoldText("Körperlicher Monitor (5+Konstitution)"),
 		latex.BoldText("Geistiger Monitor (5+Willenskraft)")})
 	tMons.AddRow([]latex.LatexStr{tMon1, tMon2})
+	battleStats.AddRaw(`\medskip`)
+	battleStats.AddRaw(`\newline\hline`)
+	battleStats.AddRaw(`\medskip`)
+	tFocLuck := battleStats.AddTable("char-res",
+		"|"+strings.Repeat(" c |", 11))
+	tFocLuck.NoDoubleHLine = true
+	tFocLuck.AddRowStr("Fokus", "", "", "", "", "", "", "", "", "", "")
+	tFocLuck.AddRowStr("Glückspunkte", "", "", "", "", "", "", "", "", "", "")
+
 	battleStats.AddRaw(`\newline`)
 	battleStats.AddText("")
-	battleStats.AddText("Zustände:")
+	battleStats.AddRaw(`Gesundheit:\space\space\space\space\space, Zustände:`)
 	sheet.AddRaw(`\newline\hline`)
 
 	// SKILLS

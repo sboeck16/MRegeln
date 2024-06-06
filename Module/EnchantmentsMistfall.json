@@ -4,10 +4,18 @@
             "Magiekunde"
         ],
         "Magie": [
-            "Verzaubern"
+            "Verzaubern",
+            "Kristallisieren"
         ]
     },
     "paths": {
+        "Kristallisierer": [
+            "Kristallbeherschung",
+            "Magiefluß",
+            "Nebeladept",
+            "Nebelläufer",
+            "Sammler"
+        ],
         "Verzauberung": [
             "Artefaktschmied",
             "Elementarverzauberer",
@@ -27,6 +35,10 @@
         ]
     },
     "masteries": {
+        "Kristallisierer": [
+            "Kristallmeister",
+            "Nebelmeister"
+        ],
         "Verzauberung": [
             "Artefaktmeister",
             "InterdisziplinärerMeister",
@@ -35,7 +47,7 @@
     },
     "additional" :[
         "Verzauberung/Verzauberung",
-        "Verzauberung/VerzauberungEnergieSurvival",
+        "Verzauberung/VerzauberungEnergie",
         "Verzauberung/Erstellung",
         "Verzauberung/Artefaktliste"
     ]
