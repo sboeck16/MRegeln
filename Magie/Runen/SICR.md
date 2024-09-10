@@ -7,12 +7,12 @@ Verstärkungsworte nötig. So könnten Möbel mit VAS SICR, Kutschen und ähnlic
 Letztes Wort hat wie immer der Spielleiter. Auch die Effektstärke kann herangezogen um die Beschreibung zu
 unterstützen.
 
-Stärkungszauber: Zusammen mit AUM kann SICR verwendet werden um den Gegenstand besser nutzen zu können.
-Schadenszauber: Kann physischen Schaden beschreiben. In Kombination mit AN könnte ein Gegenstand auflösen Zauber
+* Stärkungszauber: Zusammen mit AUM kann SICR verwendet werden um den Gegenstand besser nutzen zu können.
+* Schadenszauber: Kann physischen Schaden beschreiben. In Kombination mit AN könnte ein Gegenstand auflösen Zauber
 beschrieben werden.
-Teilaspektzauber: Beschreibt kleine Gegenstände wie Münzen oder Schlüssel.
-Illusionszauber: Erstellt Täuschung von Gegenständen
-Kontrollzauber: Telekinesezauber die die Gegenstände bewegen. Effektstärken und Verstärkungsworte legen die
+* Teilaspektzauber: Beschreibt kleine Gegenstände wie Münzen oder Schlüssel.
+* Illusionszauber: Erstellt Täuschung von Gegenständen
+* Kontrollzauber: Telekinesezauber die die Gegenstände bewegen. Effektstärken und Verstärkungsworte legen die
 physikalische Kraft fest. Könnte auch als Schadenszauber gewirkt werden (und bewirkt dann physischen Schaden in Höhe
 der Effektstärke).
-Wahrnehmungszauber: Kann Gegenstände finden (verstärkte Wahrnehmungszauber könnten spezifische Gegenstände finden).
+* Wahrnehmungszauber: Kann Gegenstände finden (verstärkte Wahrnehmungszauber könnten spezifische Gegenstände finden).

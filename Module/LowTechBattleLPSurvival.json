@@ -1,0 +1,8 @@
+{
+    "modules" : [
+        "Module/LowTechBattleLP.json"
+    ],
+    "additional": [
+        "Lebensstil/Lebensstil"
+    ]
+}

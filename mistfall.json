@@ -2,7 +2,7 @@
     "modules": [
         "Module/DefaultIntro.json",
         "Module/LowTechBasics.json",
-        "Module/LowTechBattleLP.json",
+        "Module/LowTechBattleLPEasyHeal.json",
         "Module/Glider.json",
         "Module/Rider.json",
         "Module/MagicBasic.json",
