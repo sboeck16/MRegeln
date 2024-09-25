@@ -20,6 +20,10 @@ const (
 	skillSwim       = "Schwimmen"
 	SkillPercept    = "Aufmerksamkeit"
 	SkillMagic      = "Magie"
+
+	creatureIsBeast  = 0
+	creatureIsHuman  = 1
+	creatureIsUndead = 2
 )
 
 var (
@@ -58,15 +62,22 @@ var (
 		8: 15,
 		9: 20,
 	}
-	sizeToRowMod = map[int]map[int]int{
-		2: {2: -2},
-		3: {2: -1, 3: -2},
-		4: {2: -1, 4: -2},
-		5: {3: -1, 4: -2, 5: -3},
-		6: {3: -1, 5: -2, 7: -3},
-		7: {4: -1, 7: -2, 9: -3},
-		8: {5: -1, 9: -2, 13: -3},
-		9: {7: -1, 13: -2, 18: -3},
+	sizeToRowMod = map[int]map[int]map[int]int{
+		creatureIsBeast: {
+			2: {2: -2},
+			3: {2: -1, 3: -2},
+			4: {2: -1, 4: -2},
+			5: {3: -1, 4: -2, 5: -3},
+			6: {3: -1, 5: -2, 7: -3},
+			7: {4: -1, 7: -2, 9: -3},
+			8: {5: -1, 9: -2, 13: -3},
+			9: {7: -1, 13: -2, 18: -3},
+		},
+		creatureIsHuman: {
+			4: {2: -1, 3: -2, 4: -3, 5: -4},
+			5: {2: -1, 3: -2, 4: -3, 5: -4},
+			6: {2: -1, 3: -2, 4: -3, 5: -4},
+		},
 	}
 
 	// DAMAGE

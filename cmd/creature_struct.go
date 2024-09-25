@@ -44,6 +44,7 @@ type Creature struct {
 	skills      map[string]int
 	baseSize    int
 	sizeMod     int
+	typ         int
 	text        []string
 	tags        []string
 	attacks     []*Attack
@@ -117,7 +118,7 @@ func (cr *Creature) String() string {
 	// damage table
 	rows := sizeToDCAndRows[size]
 	cols := 5 + cr.attributes[AttrCon]
-	modMap := sizeToRowMod[size]
+	modMap := sizeToRowMod[cr.typ][size]
 	ret += MDMonitor(rows, cols, modMap)
 
 	return ret

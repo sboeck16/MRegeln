@@ -4,18 +4,18 @@
 
 | Substanz | Schwierigkeit | Preisvorschlag | Effekte |
 |----------|---------------|----------------|---------|
-| Wasser | 2 | 1 | SYMA,  KONFAR, WAKU++, FLAM- |
-| Spiritus | 3 | 3 | LEKO,  SYMA,   LITAX++, EBOR- |
-| Öl | 3 | 5 | OBSEK, LEKO,   FLAM++, WAKU- |
-| Wein | 3 | 2 | SCIEN, OBSEK,  PRIX++, NOX- |
-| Harz | 2 | 2 | AUM,   SCIEN,  PRIX+, MANI+, FLORA+ |
-| Tierblut | 4 | 3 | KONFAR,AUM,    NOX++, PRIX-, FERA+, MANI+ |
-| Lauge | 3 | 2 | KONFAR,SCIEN,  EBOR+, SICR+, LITAX-, MANI- |
-| Säure | 3 | 3 | SCIEN, LEKO,   WAKU+, NOX+, MORT+ |
-| Königswasser | 4 | 6 | LEKO,  KONFAR, PRIX+, MAGI+ |
-| Menschenblut | 6 | 10 | OBSEK, AUM,    MAGI++, MORT+, MANI-, ANIMA+, HUMI+ |
-| Schlamm | 3 | 3 | SYMA,  OBSEK,  EBOR++, UR, WAKU+ |
-| Wachs | 3 | 4 | AUM,   SYMA,   FLAM+, LITAX+, SICR |
+| Wasser | 2 | 1 | SYMA, KONFAR, WAKU++, FLAM- |
+| Spiritus | 3 | 3 | LEKO, SYMA, LITAX++, EBOR- |
+| Öl | 3 | 5 | OBSEK, LEKO, FLAM++, WAKU- |
+| Wein | 3 | 2 | SCIEN, OBSEK, PRIX++, NOX- |
+| Harz | 2 | 2 | AUM, SCIEN, PRIX+, MANI+, FLORA+ |
+| Tierblut | 3 | 3 | KONFAR, NOX++, PRIX-, FERA+, MANI+ |
+| Lauge | 3 | 2 | KONFAR,SCIEN, EBOR+, SICR+, LITAX-, MANI- |
+| Säure | 3 | 3 | SCIEN, LEKO, WAKU+, NOX+, MORT+ |
+| Königswasser | 4 | 6 | LEKO, KONFAR, PRIX+, MAGI+ |
+| Menschenblut | 5 | 10 | OBSEK, AUM, MAGI++, MORT+, MANI-, ANIMA+, HUMI+ |
+| Schlamm | 3 | 3 | SYMA,  OBSEK, EBOR++, UR, WAKU+ |
+| Wachs | 3 | 4 | AUM, MUTAR, SYMA, FLAM+, LITAX+, SICR+ |
 
 #### Additive
 
@@ -54,7 +54,7 @@
 | Minze | 2 | 2 | KONFAR, LITAX+ |
 | Bittergrün | 3 | 2 | AUM, MANI-, EBOR+ |
 | Nachtschatten |3 | 2 | KONFAR, MANI-, MORT++ |
-| Wolfsblatt | 3 | 2 | AUM, FERA+ |
+| Wolfsblatt | 3 | 2 | MUTAR, FERA |
 | Brennnessel | 3 | 2 | AUM, FLAM+ |
 | Silberwurz | 3 | 2 | AUM, PRIX+ |
 | Schwarzwurz | 3 | 2 | KONFAR, NOX+ |
@@ -70,4 +70,5 @@
 | Blätterpilz | 3 | 2 | SCIEN, FLORA+ |
 | Risspilz | 5 | 7 | SCIEN, ANIMA+ |
 | Trughut | 4 | 2 | SYMA, HUMI+, LITAX+, WAKU- |
-| Eulenkappe | 4 | 3 | SCIEN, PRIX+, FERA+, MAGI+ |
+| Eulenkappe | 3 | 3 | SCIEN, PRIX+, FERA+, MAGI+ |
+| Morphling | 3 | 5 | MUTAR, SYMA, MAGI+ |

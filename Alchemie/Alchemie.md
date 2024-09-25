@@ -10,8 +10,10 @@ oder getrunken wird.
 * Grundsätzlich wird die Effektstärken durch die verwendeten Substanzen gestellt. D.H. für jedes alchemistische
 Erzeugnis wird bei der Herrstellung die Effektstärke festgelegt.
 * Die Willenskraft der Substanz ist wird durch die Erfolgsgrade beim Herstellen bestimmt.
-* Die Dauer der Effekte hängt von der Willenskraft ab (für diesen Fall ist sie immer mindestens 1, auch wenn kein
-Erfolgsgrad bei der Herstellung vorliegt). KONIU Effekte wirken Willenskraft * 5 Runden lang.
+* Die Wirkungsdauer von bleibenden Effekten ist die Szene / 10 Kampfrunden und sollte mit der Wikrungsdauer von
+ähnlichen Zaubereffekten des Settings übereinstimmen. Zauber die ohne KONIU wenig Sinn machen (Schild, Wahrnehmungs
+oder Illusionseffekte) wirken so als wenn sie mit KONIU gewirkt wurden und die Kosten der Aufrechterhaltung bezahlt
+sind.
 
 ## Notation einer alchemistischen Substanz
 
@@ -39,6 +41,8 @@ Hat sich der Alchemist entschieden welche Substanzen er mischen möchte, so kann
 festgelegt werden.
 
 * Schwierigkeit ist 10 plus Summe der Schwierigkeiten der Zutaten.
+* Einfache Rezepte sind volatil. Es werden 2 Kritikalitätspunkte für Rezepte mit 2 Zutaten und 1 Kritikalitätspunkt
+für Rezepte mit 3 Zutaten hinzugefügt.
 
 Eine Prozedur kann aufgrund der beteiligten Effekt kritisch werden. Bei der Effektbestimmung werden deswegen
 Kritikalitätspunkte verteilt. Es wird ein zweiter Mindeswurf mit den Kritikalitätspunkten gebildet. Ist die

@@ -23,8 +23,8 @@ var (
 	// root command
 	rootCmd = &cobra.Command{
 		Use:   "rpgcli",
-		Short: "rpgcli ist ein Hilfswerkzeug für MDRegeln",
-		Long: "rpgcli stellt Hilfsprogramme zum Umgang mit den MDRegeln bereit." +
+		Short: "rpgcli ist ein Hilfswerkzeug für MRegeln",
+		Long: "rpgcli stellt Hilfsprogramme zum Umgang mit den MRegeln bereit." +
 			"Mehr Information mit -h oder --help. Als cli Tool stapelt es" +
 			" Funktionen mit `subcommands` und fügt Parameter hinzu (alles" +
 			" was mit - anfängt.",
@@ -62,4 +62,20 @@ func checkErr(errs ...error) bool {
 		}
 	}
 	return ret
+}
+
+/*
+checks if two arrays contain the same elements (are equal). Asserts no elements
+are in there twice!
+*/
+func sameArr[T comparable](a, b []T) bool {
+	if len(a) != len(b) {
+		return false
+	}
+	for i, v := range a {
+		if v != b[i] {
+			return false
+		}
+	}
+	return true
 }
