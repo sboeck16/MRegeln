@@ -10,7 +10,7 @@
         "Module/East.json",
         "Module/EquipmentSurvival"
     ],
-    "masteries": {
+    "paths": {
         "Magie" : [
             "Fokusmagier"
         ]

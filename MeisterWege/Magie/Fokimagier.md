@@ -11,4 +11,5 @@ Limitierung bezieht sich auf jede Kombination von permanenten und verbrauchbaren
 hat zwei Monitore deren größe von der Größe und Materialbeschaffenheit des Gegenstands abhängt. Beide Monitore sind
 gleich groß und können mindestens 10 (Amulett) und höchsten 50 Kästchen (Edelmetallstatue) aufnehmen. Genaueres
 bestimmt der Spielleiter nach Vorschlag des Spielers. Der Schaden wird 1:1 zwischen Charakter und Gegenstand
-aufgeteilt (Wahl des Spielers wo der 1 mögliche übrige Punkt hingeht).
+aufgeteilt (Wahl des Spielers wo der 1 mögliche übrige Punkt hingeht). Die Gegenstände heilen jeweils eine Reihe pro
+Tag.

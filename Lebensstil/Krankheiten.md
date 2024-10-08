@@ -15,7 +15,7 @@ angegebene Auswirkung auf den Charakter angewandt bei 8 oder mehr kommt die bei 
 dem für Verschlechterung so steigt die Stufe um 1, erreicht der Charakter den Wert für Verbeserung so sinkt die
 Stufe um 1. Zu beachten ist das einige Krankheiten weitere Regeln haben können.
 
-#### Erkältung
+### Erkältung
 
 Oberflächliche Krankheit die für gesunde Charaktere weniger ein Problem sein sollte aber den Einfall weiterer
 Krankheiten ermöglicht
@@ -33,7 +33,7 @@ kann sich nicht anstecken.
 * Schwer: -Die Belastung um 1. Der Charakter prüft zusätzlich einmal am Tag gegen MW 18 oder er hat eine Infektion
 der Stufe 2.
 
-#### Infektion
+### Infektion
 
 Schweres Fieber und eiternde Gewebeschäden. Hier ist im weiteren Krankheitsverlauf vorsicht geboten.
 
@@ -48,7 +48,7 @@ ist ausserdem eine Probe gegen MW 18 nötig oder zwei weitere Stufen werden hinz
 * Schwer: Er ist zudem handlungsunfähig. Jeden ganzen Tag den der Charakter an der Infektion leidet ist eine Probe
 gegen 18 fällig oder er wird mit schwarzen Tod der Stufe 5 angesteckt.
 
-#### Magenkrankheit
+### Magenkrankheit
 
 Krankheiten des Verdauungssystems. 
 
@@ -65,7 +65,7 @@ verdorbenen Fleisch oder Fisch recht hoch sein.
 * Schwer: Der Charakter ist handlungsunfähig. Er muss zusätzlich einmal am Tag gegen MW 18 testen oder er wird mit
 schwarzer Tod auf Stufe 1 angesteckt.
 
-#### schwarzer Tod
+### schwarzer Tod
 
 Etwas dunkles in Terra Noctis lässt niemand nur einmal sterben. Teile des Charakters werden nekrotisch aber
 funktionieren zum Teil noch...
@@ -89,7 +89,7 @@ der MORT Rune haben ihre Komplexität um 5 reduziert.
 * Würde ein Charakter die Stufe 11 erreichen oder stirbt als schwer Infizierter so steht er sofort und unmittelbar
 geheilter Wiedergägner auf und geht in die Hand des Spielleiters.
 
-#### schwarze Träume
+### schwarze Träume
 
 Eine geistige Erkrankung die den Charakter beeinflusst. Bei dieser Krankheit wird immer die Willenskraft statt der
 Konstitution für die Proben verwendet.
