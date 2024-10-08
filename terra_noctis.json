@@ -9,5 +9,10 @@
         "Module/Alchemy.json",
         "Module/East.json",
         "Module/EquipmentSurvival"
-    ]
+    ],
+    "masteries": {
+        "Magie" : [
+            "Fokusmagier"
+        ]
+    }
 }

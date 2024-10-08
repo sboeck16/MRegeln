@@ -3,6 +3,7 @@
         "Module/LowTechBattleLP.json"
     ],
     "additional": [
-        "Lebensstil/Lebensstil"
+        "Lebensstil/Lebensstil",
+        "Lebensstil/Krankheiten"
     ]
 }

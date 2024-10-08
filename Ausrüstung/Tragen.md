@@ -10,3 +10,8 @@ Strecken (Gebirge, dichtes Unterholz) wird der Belastungsmalus verdoppelt.
 
 Bis zur Stärke mal 30 kann der Charakter kurzfristig tragen. Das reicht um Verwundete zu bergen oder schwere
 Ausrüstung zu bergen. Reisen kann der Charakter so nicht. Seine Belastung im Kampf ist um 2 erhöht.
+
+##### Spielleiterhinweis
+
+Je nach Situation, Setting oder Hausregel kann man auch das Konstitutionsattribut oder eine Mischung aus beiden
+Attributen in Betracht ziehen um das Tragegewicht zu berechnen.

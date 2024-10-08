@@ -7,15 +7,20 @@
     "paths": {
         "Alchemie": [
             "Apparatmeister",
+            "Formbeherschung",
+            "Formwandler",
             "Forscher",
             "Giftmeister",
             "Kesselmeister",
-            "Kristallisierer"
+            "Kristallisierer",
+            "Trankbeherschung"
         ]
     },
     "masteries": {
         "Alchemie": [
-            "MeisterAlchemist"
+            "Formmeister",
+            "MeisterAlchemist",
+            "Trankbeherschung"
         ]
     },
     "additional": [
