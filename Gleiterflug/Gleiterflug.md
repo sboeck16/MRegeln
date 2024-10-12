@@ -1,16 +1,16 @@
 # Gleiterflug
 
-Im folgenden werden die Regeln für den Gleiterflug festgehalten.
+Im Folgenden werden die Regeln für den Gleiterflug festgehalten.
 
 ## Allgemein
 
 Die Gleiter ermöglichen es Charakteren zu fliegen. Im Allgemeinen ist dabei aber nur Sinkflug möglich. Fliegende
-Charaktere können Flugmanöver machen um Position, Höhe, Geschwindigkeit und Ausrichtung zu ändern. 
+Charaktere können Flugmanöver machen, um Position, Höhe, Geschwindigkeit und Ausrichtung zu ändern. 
 
 Gleiter haben eine Manöverklasse, eine Mindestgeschwindigkeit und Maximalgeschwindigkeit (anhängig vom Typ).
 Sie verlieren automatisch einen Punkt Höhe jede Runde.
 
-Aktionen beim Gleiterflug werden Möver genannt. Mehrere Manöver sind gleichzeitig möglich, unterliegen aber den
+Aktionen beim Gleiterflug werden Manöver genannt. Mehrere Manöver sind gleichzeitig möglich, unterliegen aber den
 üblichen Handlungsmalus. Weitere Mali oder Boni können je nach Situation gegeben werden (Wind, Hindernisse, usw.)
 
 Nachfolgend werden die grundlegenden Manöver festgehalten. Die Zahl in Klammern gibt den grundlegenden Mindestwurf an.
@@ -27,13 +27,13 @@ Beinen getroffen wurde. Für jeden Erfolgsgrad kann die Geschwindigkeit bei der 
 
 #### Rolle (18)
 
-Kann nur im Kampf durchgeführt werden falls der entsprechende Weg bekannt ist! Der Charakter fliegt einen Moment in
-Rückenlage und verliert dann 2 Höhenstufen. Erfolgsgrade können dafür verwendet werden um den Höhenverlust zu
+Kann nur im Kampf durchgeführt werden, falls der entsprechende Weg bekannt ist! Der Charakter fliegt einen Moment in
+Rückenlage und verliert dann 2 Höhenstufen. Erfolgsgrade können dafür verwendet werden, um den Höhenverlust zu
 neutralisieren oder eine Richtungsänderung um 180° durchzuführen.
 
 #### Immelmann (16)
 
-Unter Verlust eines Punkt Geschwindigkeit kann eine 180° Kehre geflogen werden.
+Unter Verlust eines Punktes Geschwindigkeit kann eine 180° Kehre geflogen werden.
 
 #### Abtauchen (16)
 
@@ -46,7 +46,7 @@ Jede Erfolgsstufe erlaubt es 3 Punkte Geschwindigkeit gegen 1 Höhenstufe zu tau
 
 #### Abbremsen (14)
 
-Die Geschwindigkeit sinkt um eins plus zusätzlich einen Punkt pro Erfolgsstufe.
+Die Geschwindigkeit sinkt um eins und zusätzlich einen Punkt pro Erfolgsstufe.
 
 #### Ausweichen (Speziell)
 

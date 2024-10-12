@@ -1,6 +1,7 @@
 #### Sportlichkeit
 
-Alle athletischen Herausforderungen vor den ein Charakter stehen könnte, werden mit dieser Fertigkeit dargestellt.
-Laufen und Springen sei es um schnell zu sein, Hindernisse zu überqueren oder andere herausfordernde Situationen zu
-meistern. Zur Fertigkeit gehört auch in gewissen Rahmen Körperkontrolle und Ausdauer (wie atme ich richtig welche
-Geschwindigkeit kann ich länger laufen usw.)
+Das Ergebnis aller athletischen Herausforderungen, die ein Charakter meistern muss, wird mit dieser Fertigkeit gemacht.
+Z.B. um zu bestimmen, wie gut ein Charakter läuft, springt oder Hindernisse überwindet, wird hier ermittelt. Auch das
+Ermitteln der Geschwindigkeit eines sprintenen Charakters ist Teil dieser Fertigkeit. In einem gewissen Rahmen ist auch
+Körperkontrolle hier abgebildet.
+

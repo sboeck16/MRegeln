@@ -1,6 +1,6 @@
 ## Geld
 
-Preise werden in Silbermünzen (Denar) angegeben. Das Gewicht einer Münze beträgt 5g. Der Wert der Münze ergibt sich
+Preise werden in Silbermünzen (Denar) angegeben. Das Gewicht einer Münze beträgt 5 Gramm. Der Wert der Münze ergibt sich
 nur aus ihrem Silbergewicht. Entsprechend kann alles Silber in Münzen angegeben und verwendet werden. Speziell
 gefertigter Schmuck kann aber durchaus wertvoller sein.
 

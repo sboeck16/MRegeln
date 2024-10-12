@@ -7,5 +7,10 @@
         "Ausrüstung/Kleidung",
         "Ausrüstung/Waffen",
         "Ausrüstung/Gebäude"
-    ]
+    ],
+    "paths": {
+        "AllgemeinHandwerk" : [
+            "Packratte"
+        ]
+    }
 }

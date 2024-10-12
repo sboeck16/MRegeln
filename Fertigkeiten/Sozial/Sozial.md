@@ -1,3 +1,3 @@
 ### Sozial
 
-Fertigkeiten die den Umgang des Charakters mit anderen Charakteren abbilden.
+Fertigkeiten, die den Umgang des Charakters mit anderen Charakteren abbilden.

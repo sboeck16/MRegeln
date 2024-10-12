@@ -1,8 +1,8 @@
 ## Kleidung und Rüstung
 
-Kleidung und Rüstungen werden von Charakteren getragen um sich gegen Schaden durch feindliche Angriffe und die
-Witterung zu schützen. Hier vorgestellte Ausrüstung dient eher als Inspriration. Kleidung kann stark varieren und
-ihre Qualität ist von den verwendeten Materialien abhängig. Die angegebene Fertigkeiten können gegen passende andere
+Kleidung und Rüstungen werden von Charakteren getragen, um sich gegen Schaden durch feindliche Angriffe und die
+Witterung zu schützen. Hier vorgestellte Ausrüstung dient eher als Inspiration. Kleidung kann stark variieren und
+ihre Qualität ist von den verwendeten Materialien abhängig. Die angegebenen Fertigkeiten können gegen passende andere
 getauscht werden (z.B. Gerber wenn mit Leder gearbeitet wird).
 Bei Kleidung kann Tuch gegen Leder ersetzt werden. Wird Fell eingesetzt erhöht sich der Temperaturschutz sofern
 passend. Leder verdoppelt und Fell verfünffacht den Preis.
@@ -10,27 +10,27 @@ passend. Leder verdoppelt und Fell verfünffacht den Preis.
 Folgende Punkte sind zu berücksichtigen:
 
 * Es schützt immer nur die beste Panzerung (Panz).
-* Belastungen (Bel) werden aber addiert und reduzieren Verteidigung, Bewegung und alle Proben die mit Bewegung zu tun
+* Belastungen (Bel) werden aber addiert und reduzieren Verteidigung, Bewegung und alle Proben, die mit Bewegung zu tun
 haben.
 * Kleidung kann die Stufen kühl, warm und sehr warm haben. Sie hilft gegen die entsprechenden Witterungen.
 * Regenschutz (RS) hilft gegen Niederschlag, die Ausrüstung des Charakters wird ebenfalls nicht durchnässt.
-* Arbeitskleidung mit entsprechenden Taschen und geschützten Stellen kann zum Komfort beitragen und ist nötig um
+* Arbeitskleidung mit entsprechenden Taschen und geschützten Stellen kann zum Komfort beitragen und ist nötig, um
 die Komfortboni in Anspruch zu nehmen.
 * Verstärkbar (V). Diese Kleidung enthält keinen Satz von Helmen und Arm- und Beinschienen. Diese
 können zusätzlich getragen werden und erhöhen die Panzerung um 1 und das Gewicht um 3.
-* Energieschutz (ES). Sollte Energieschaden (Feuer, etc) unreduziert zur Geltung kommen so wird er um 2 reduziert.
-Wird eine Rüstung mit dieser Option erstellt so erhöht sich der Materialaufwand um 10% und der Arbeitsaufwand
-verdoppelt sich. Der Herstellungsmindestwurf ist um 2 erhöht
-* Magieschutz (MS). Sollte Magieschaden (Todesenergie, etc.) unreduziert zur Geltung kommen so wird sie um 2 reduziert.
-Kleidung oder Rüstung die so behandelt ist benötigt zusätzlich 100 Silbermünzen. Das Gewicht der Rüstung ist um 0,5kg
+* Energieschutz (ES). Sollte Energieschaden (Feuer, etc.) unreduziert zur Geltung kommen, so wird er um 2 reduziert.
+Wird eine Rüstung mit dieser Option erstellt, so erhöht sich der Materialaufwand um 10% und der Arbeitsaufwand
+verdoppelt sich. Der Herstellungsmindestwurf ist um 2 erhöht.
+* Magieschutz (MS). Sollte Magieschaden (Todesenergie, etc.) unreduziert zur Geltung kommen, so wird sie um 2 reduziert.
+Kleidung oder Rüstung, die so behandelt ist, benötigt zusätzlich 100 Silbermünzen. Das Gewicht der Rüstung ist um 0,5kg
 erhöht, der Herstellungsmindestwurf ist um 2 erhöht.
-* Brennbar (B). Fängt der Charakter Feuer so verdoppelt sich der Schaden.
+* Brennbar (B). Fängt der Charakter Feuer, so verdoppelt sich der Schaden.
 * Leicht (L). Das Gewicht der Rüstung ist um 20% reduziert. Der Mindestwurf bei der Herstellung ist um 3 erhöht.
 * Schwer (S). Das Gewicht der Rüstung steigt um 30%, die Panzerung um 1. Herstellungsmindestwurf steigt um 2.
-* Heimlich (h). Ein Punkt Belastung der Rüstung wird nicht auf Proben beim Schleichen angewendet. Herstellmindestwurf
-steigt um 2, Herstellzeit um 100%.
-* Beweglich (b). Die Belastung wird um einen Punkt reduziert bevor sie auf die Geschwindigkeit oder Proben die mit
-dem Bewegen zu tun haben angerechnet wird. Mindestwurf steigt um 2, Herstellzeit um 100%.
+* Heimlich (h). Ein Punkt Belastung der Rüstung wird nicht auf Proben beim Schleichen angewendet.
+Herstellungsmindestwurf steigt um 2, Herstellzeit um 100%.
+* Beweglich (b). Die Belastung wird um einen Punkt reduziert, bevor sie auf die Geschwindigkeit oder Proben, die mit
+dem Bewegen zu tun haben, angerechnet wird. Mindestwurf steigt um 2, Herstellzeit um 100%.
 
 ### Kleidungs und Rüstungsliste
 
@@ -69,16 +69,16 @@ dem Bewegen zu tun haben angerechnet wird. Mindestwurf steigt um 2, Herstellzeit
 | Kettenrüstung | 500 | 120 Eisen | Ges+Rüstungsmacher (20, 120h) | MS,B,S |
 | Körperpanzer | 400 | 120 Eisen | Ges+Rüstungsmacher (20, 60h) | L,S,MS |
 | Plattenrüstung | 1000 | 200 Eisen | Ges+Rüstungsmacher (20, 120h) | L,S,MS,ES |
-| Verstärkung | 150 | 60 Eisen | Ges+Rüstungsmacher (20,40h) | L |
+| Verstärkung | 150 | 60 Eisen | Ges+Rüstungsmacher (20, 40h) | L |
 
 ### Seltene Materialien
 
-Sofern passend können seltene Legierungen oder Tierhäute eingearbeitet werden. Verwenden solcher Materialien erhöht
-den Mindestwurf bei der Herstellung. Sofern nicht anders gesagt kann immer nur eine Materialie und diese auch nur
+Sofern passend, können seltene Legierungen oder Tierhäute eingearbeitet werden. Verwenden solcher Materialien erhöht
+den Mindestwurf bei der Herstellung. Sofern nicht anders gesagt, kann immer nur ein Material und dieses auch nur,
 wenn es passt verwendet werden. Mögliche Boni könnten z.B. sein:
 
-* Extraleicht: Das Gewicht der Rüstung wird um 30% reduziert
-* Adaptiv: Der Wärmeschutz der Rüstung passt sich um eine Stufe an, so das die Witterungsbedingung angenehm bleiben.
+* Extra leicht: Das Gewicht der Rüstung wird um 30% reduziert
+* Adaptiv: Der Wärmeschutz der Rüstung passt sich um eine Stufe an, so dass die Witterungsbedingungen angenehm bleiben.
 * Tarnend: Die Rüstung gibt 1W zu Proben beim Schleichen.
-* Schnell: Die Rüstung erhöht die Geschwindigkeit des tragenden um 1.
+* Schnell: Die Rüstung erhöht die Geschwindigkeit des Tragenden um 1.
 * Extraschutz: Die Rüstung reduziert bei einer bestimmten Schadensart den Schaden um 1.

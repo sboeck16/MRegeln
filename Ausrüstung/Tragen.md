@@ -1,17 +1,15 @@
 ## Tragen von Ausrüstung
 
-Jeder Charakter kann Stärke mal 5 in kg tragen ohne Probleme zu bekommen. Durch Verwendung von Rücksäcken und
-Anpassung an den Tragekomfort kann das erlaubte Gewicht um bis zu 20% überschritten werden. Auch sollte notiert
-werden welches Gewicht der Charakter im Kampf trägt. Das Fallenlassen eines Rucksacks kostet etwa eine
-Bewegungshandlung. Reisegepäck wird sicherlich nicht in gefährlichen Situationen getragen.
+Das Basistragegewicht eines Charakters berechnet sich wie folgt:
 
-Bis zur Stärke mal 15 in kg kann der Charakter beladen sein. Seine Belastung steigt um 1. Bei anspruchsvollen
-Strecken (Gebirge, dichtes Unterholz) wird der Belastungsmalus verdoppelt.
+* (Stärke + Konstitution) * 2,5kg
 
-Bis zur Stärke mal 30 kann der Charakter kurzfristig tragen. Das reicht um Verwundete zu bergen oder schwere
-Ausrüstung zu bergen. Reisen kann der Charakter so nicht. Seine Belastung im Kampf ist um 2 erhöht.
+Trägt der Charakter gleich oder weniger Ausrüstung, so hat er keine Malus. Das Nutzen von Tragetaschen, Rücksäcken
+oder Ähnlichem kann einen Bonus von 10% bis 20% auf das Tragegewicht geben, bevor ein Malus erlitten wird.
 
-##### Spielleiterhinweis
+Der Charakter kann bis zum Dreifachen des unmodifizierten Basistragegewichts mit sich herumschleppen, seine Belastung
+ist dann aber um 1 erhöht. Mit entsprechender Vorbereitung kann der Charakter sein Reisegewicht in einer
+Bewegungshandlung loswerden, hier empfiehlt es sich passende Vermerke auf der Ausrüstung zu machen.
 
-Je nach Situation, Setting oder Hausregel kann man auch das Konstitutionsattribut oder eine Mischung aus beiden
-Attributen in Betracht ziehen um das Tragegewicht zu berechnen.
+Bis zum sechsfachen des Basistragegewichts kann kurzfristig getragen werden. Das reicht, um Verwundete oder Ausrüstung
+zu bergen. Reisen ist so nicht möglich und die Belastung ist um 2 erhöht.

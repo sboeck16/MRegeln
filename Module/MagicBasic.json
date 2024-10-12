@@ -11,11 +11,13 @@
         "Magie": [
             "Bannmagiers",
             "Heiler",
+            "Kampfmagier",
             "Körperadept",
             "Ritual",
             "verdeckterZauber",
             "Wort",
-            "Zauberspezialisierung"
+            "Zauberspezialisierung",
+            "Zerstörung"
         ]
     },
     "masteries": {
