@@ -1,3 +1,10 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+DEPRECATED und UNKONTROLLIERT
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
 ### Erstellung eines Artefakts
 
 Um ein Artefakt zu Erstellen sind zwei Prozesse erforderlich. Design und Durchführen:

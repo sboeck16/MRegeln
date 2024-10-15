@@ -123,3 +123,5 @@ Phiolen (2 Splitter):
 | Wegkraut | 6 | 2 | |
 | Wolfsblatt | 3 | 2 | |
 | Zinn | 3 | 3 | |
+
+!newpage
