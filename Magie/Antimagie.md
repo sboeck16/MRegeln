@@ -4,7 +4,7 @@ In einer stark magischen Welt muss es Möglichkeiten geben sich gegen Magie zu s
 aufzulösen. Wie bereits in den Magieregeln erklärt kann ein Lebewesen Magie widerstehen (oder die Magie zulassen).
 Hier ein paar Regeln wie dieser Widerstand aussehen kann:
 
-* Kontrollzaube: Nachdem der Zauber erfolgreich gewirkt wurde, treten Zauberer und Ziel in einen Willenskraftwettstreit
+* Kontrollzauber: Nachdem der Zauber erfolgreich gewirkt wurde, treten Zauberer und Ziel in einen Willenskraftwettstreit
 ein. Verliert das Ziel ist es unter Kontrolle des Zaubers. Gewinnt das Ziel wird der Zauber automatisch
 beendet. Je nach Erfolgsgraden dieses Willenskraftwettstreit sollte der Spielleiter erklären wann oder zu welchen
 Anlass diese Probe wiederholt wird. (siehe Spielleiterhinweis)
@@ -13,11 +13,10 @@ Charaktere begründeten Anlass zum Zweifel haben oder mit der Illusion interagie
 Wahrnehmung und Aufmerksamkeit gemacht werden. Illusionen die direkt den Geisteszustand beeinflussen (z.B. Schmerzen
 zufügen) kann auch mit Willenskraft widerstanden werden.
 * Wahrnehmungszauber: Charaktere mit Ahnung von Magie können versuchen sich dieser Wahrnehmung (wie jeder anderen
-Wahrnehmung) entziehen indem sie entsprechende Sichtdeckungen nutzen (und verstehen das Sichtdeckungen für
+Wahrnehmung) zu entziehen indem sie entsprechende Sichtdeckungen nutzen (und verstehen das Sichtdeckungen für
 Wahrnehmungszauber anders funktionieren). Im Zweifel können hier Schleichenproben verwendet werden.
 * Schadenszauber: Diese werden behandelt wie Angriffe der Charakter kann dieselben Methoden verwenden um ihnen zu
-widerstehen. Zur Not muss er den Schaden aushalten. Eine weitere Widerstandsprobe ist nicht geplant (aber siehe
-nächster Punkt)
+widerstehen. Zur Not muss er den Schaden aushalten. Eine weitere Widerstandsprobe ist nicht geplant.
 * Veränderungszauber: Zauber die den Körper eines Charakters manipulieren können anstatt mit Willenskraft auch mit
 Konstitution widerstanden werden.
 
@@ -31,7 +30,7 @@ oder aufgelöst wird. Folgendes ist dabei noch zu beachten:
 * Bei Gegenzauber mit niedriger Effektstärke bekommt der Originalzauber einen Willenskraftbonus in Höhe der
 Differenz der Effektstärken.
 * Für jeden Aspekt den der Gegenzauber weglässt bekommt der Originalzauber einen Punkt Willenskraftbonus.
-* Für fehlende Farbe oder Detailgrad der Farbe bekommt der Gegenzauber einen Willenskraftbonus von einem Punkt (bei
+* Für fehlende Farbe oder Detailgrad der Farbe bekommt der Originalzauber einen Willenskraftbonus von einem Punkt (bei
 deutlicher Diskrepanz sollte der Spielleiter mehr vergeben ORT AN AUM, gegen ein ORT AUM HUMI KONIU sollte eher drei
 Punkte sein da hier der Komplexität von HUMI nicht Rechnnug getragen wird).
 * Ein exakter Gegenzauber der entweder Form oder Farbe mit der AN Rune ins Gegenteil verkehrt und die gleiche

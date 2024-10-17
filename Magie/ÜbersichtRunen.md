@@ -1,6 +1,6 @@
 ## Übersicht über die wichtigen Runen
 
-Im nachfolgenden sind die Runen kurz in einer tabellarischen Übersicht zusammengefasst. Die Tabelle beinhaltet
+Im Nachfolgenden sind die Runen kurz in einer tabellarischen Übersicht zusammengefasst. Die Tabelle beinhaltet
 die Rune, ihre Komplexität und an welcher Stelle im Zauber sie Verwendung findet. Dazu gibt es eine Kurzbeschreibung
 sowie einen Beispielzauber. Für genauere Informationen ist im Abschnitt der jeweiligen Rune nachzulesen.
 
@@ -53,10 +53,10 @@ sowie einen Beispielzauber. Für genauere Informationen ist im Abschnitt der jew
 | DIVIN | 6 | X | X | | | Erschaffung, gottgleiche Verstärkung | DIVIN HUMI CONDUC MANI, Wiederbelebung |
 | TRIA | 4 | | | X | | Verdreifacht den Zauber | TRIA ORT TEL FLAM, 3 Feuergeschoße |
 | PENTA | 6 | | | X | | Verfünffach den Zauber | HEPTA ORT UR MAGI KONIU, 5 magische Schilde |
-| HEPTA | 8 | | | X | | Versiebenfacht den Zauber | HEPTA ORT FIR INGVA FIR KONIU, Eissturm mit 7 Zentren |
+| HEPTA | 8 | | | X | | Versiebenfacht den Zauber | HEPTA ORT FIR INGVA LEKO KONIU, Eissturm mit 7 Zentren |
 | | | | | | | | |
-| ES 1 | 1 | - | - | - | - | Effektstärke 1 | Verwendung für Schaden, etc |
-| ES 2 | 3 | - | - | - | - | Effektstärke 2 | Verwendung für Schaden, etc |
-| ES 3 | 6 | - | - | - | - | Effektstärke 3 | Verwendung für Schaden, etc |
-| ES 4 | 10 | - | - | - | - | Effektstärke 4 | Verwendung für Schaden, etc |
-| ES 5 | 15 | - | - | - | - | Effektstärke 5 | Verwendung für Schaden, etc |
+| ES 1 | 1 | - | - | - | - | Effektstärke 1 | Verwendung für Schaden, etc. |
+| ES 2 | 3 | - | - | - | - | Effektstärke 2 | Verwendung für Schaden, etc. |
+| ES 3 | 6 | - | - | - | - | Effektstärke 3 | Verwendung für Schaden, etc. |
+| ES 4 | 10 | - | - | - | - | Effektstärke 4 | Verwendung für Schaden, etc. |
+| ES 5 | 15 | - | - | - | - | Effektstärke 5 | Verwendung für Schaden, etc. |

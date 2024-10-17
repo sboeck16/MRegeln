@@ -1,3 +1,3 @@
 ### Verzauberung
 
-Wege die genutzt werden können um verzauberte Gegenstände besser zu "designen", "herzustellen" oder zu "nutzen".
+Wege, die genutzt werden können, um verzauberte Gegenstände besser "herzustellen" oder zu "nutzen".

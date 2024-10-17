@@ -2,7 +2,7 @@
 
 Farbrune, Natur, Kreis: 4, Komplexität: 3
 
-Beschreibt Pflanzen. Durch Kombination mit weiteren Farbworten können die Pflanzen genauer bescrhrieben werden. Die
+Beschreibt Pflanzen. Durch Kombination mit weiteren Farbworten können die Pflanzen genauer beschrieben werden. Die
 Effektstärke beschreibt die Größe der Pflanze.
 
 * Stärkungszauber: Gibt eine Fähigkeit von Pflanzen. Sofern das gewünscht ist...

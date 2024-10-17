@@ -1,3 +1,3 @@
 ### Magie
 
-Wege die die freie Runenmagie verbessern.
+Wege, um die freie Runenmagie verbessern.

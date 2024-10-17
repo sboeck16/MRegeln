@@ -7,13 +7,13 @@ Beispiel:
 
 * ORT TEL FLAM CONDUC LITAX: Feuer und Luft werden hier zu Blitz verbunden.
 * SYMA WAKU CONDUC LITAX: Wasser und Luft wird hier zu Eis verbunden.
-* ORT LEP CONDUC LEKO FLAM: Strahl und Freisetzung wird hier verbunden um einen kegelförmigen Angriffszauber zu
+* ORT LEP CONDUC LEKO FLAM: Strahl und Freisetzung wird hier verbunden, um einen kegelförmigen Angriffszauber zu
 erzeugen.
 
 CONDUC ist auch als die Namensrunen bekannt. Magische Forschung versucht Effekte oder Farben aus den primären
 Elementen mittels CONDUC zusammenzusetzen. So kann Metall zum Beispiel als FLAM CONDUC EBOR CONDUC EBOR beschrieben
-werden. Gold könnte z.B. durch weiteres hinzufügen von PRIX beschrieben werden. Sollte ein solche Farbe erfolgreich
-beschrieben werden so kann der Magier mit längerer Forschung den magischen Namen dieser Verbindung in Erfahrung
+werden. Gold könnte z.B. durch weiteres Hinzufügen von PRIX beschrieben werden. Sollte eine solche Farbe erfolgreich
+beschrieben werden, so kann der Magier mit längerer Forschung den magischen Namen dieser Verbindung in Erfahrung
 bringen. So ist FLAM CONDUC LITAX durch die Rune POR beschrieben. Dieser Name reduziert die Zauberlänge und evtl. auch
 die Komplexität.
 
@@ -46,25 +46,23 @@ Hier ein paar Mischrunen. Je nach Kampagne können und sollten andere Interpreta
 
 ##### Spielleiterhinweis
 
-Wenn Neue Farbrunen erschaffen werden so sollten sie (eingekürzte) passende lateinische Worte verwenden, die 
-existierenden Runen haben sich daran orientiert. Sollte zuviel Beschreibung in die Namensrune eingeflossen sein
-so kann es sein das die Komplexität unverhältnismässig hoch ist. Hier sollte die Komplexität vom spielleiter auf
-ein mit bereits existierenden Farbrunen vergleichbares Mass reduziert werden.
+Wenn neue Farbrunen erschaffen werden, so sollten sie (eingekürzte) passende lateinische Worte verwenden, die
+existierenden Runen haben sich daran orientiert. Sollte zu viel Beschreibung in die Namensrune eingeflossen sein, so
+kann es sein, dass die Komplexität unverhältnismäßig hoch ist. Hier sollte die Komplexität vom Spielleiter auf ein
+mit bereits existierenden Farbrunen vergleichbares Maß reduziert werden.
 
-Mit der CONDUC Rune wäre es auch möglich Zauber oder Teilzauber zu verbinden. Denkbare Szenarien die aber von der
+Mit der CONDUC Rune wäre es auch möglich, Zauber oder Teilzauber zu verbinden. Denkbare Szenarien, die aber von der
 Spielleitung für die Welt vorgesehen sein müssen:
 
 * ORT LEP CONDUC LEP POR: Kettenblitz der von einem Gegner zu einem weiter springt. (-2W und zwei Proben sind fällig)
-* ORT HORA CONDUC ORT HORA KONIU: Verbindet zwei Raumpunkte mittels eines Portals (Teleportation von allem das durchs
+* ORT HORA CONDUC ORT HORA KONIU: Verbindet zwei Raumpunkte mittels eines Portals (Teleportation von allem, das durchs
 Portal schreitet).
 * SYMA PRIX KONIU CONDUC SYMA AN MAGIE: Unsichtbarkeitszauber der von einfachen SCIEN Zaubern nicht aufgespürt wird
-* MANARE MANI CONDUC MANI MUTAR MAGI CONDUC AUM UR MAGI: Zauber der Lebensenergie in magische Energie umwandelt die
-zum reparieren eines magischen Schilds verwendet wird.
+* MANARE MANI CONDUC MANI MUTAR MAGI CONDUC AUM UR MAGI: Zauber, der Lebensenergie in magische Energie umwandelt, die
+zum Reparieren eines magischen Schilds verwendet wird.
 
-Das letzte Beispiel zeigt relativ komplexer Magie. Der Zauber wäre als Verzauberung oder KONFAR Magie denkbar. Dann
-würde z.B. verursachter Waffenschaden ein Schutzschild aufladen. Bei dieser hochkomplexen Magie ist aber die Frage
-wird sie für die Spielwelt gebraucht? Ist sie den Spielern zugänglich (kann hinter Komplexität verborgen sein oder
-ist nur als Großmagie effektvoll, etc.). Desweiteren muss der Spielleiter bestimmte Sachen festlegen. Hier z.B.
-welcher Schaden lädt das Schild wie auf? Wie schnell kann Schaden gemacht werden?
-
-Weiter Ideen sind Schnee (FIR CONDUC LITAX).
+Das letzte Beispiel zeigt relativ komplexe Magie. Der Zauber wäre als Verzauberung oder KONFAR Magie denkbar. Dann würde
+z.B. verursachter Waffenschaden ein Schutzschild aufladen. Bei dieser hochkomplexen Magie ist aber die Frage, wird sie
+für die Spielwelt gebraucht? Ist sie den Spielern zugänglich (kann hinter Komplexität verborgen sein oder ist nur als
+Großmagie effektvoll, etc.). Des Weiteren muss der Spielleiter bestimmte Sachen festlegen. Hier z.B. welcher Schaden
+lädt das Schild wie auf? Wie schnell kann Schaden gemacht werden?

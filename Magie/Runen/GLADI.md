@@ -10,6 +10,7 @@ größere Waffen benötigen dann INGVA.
 * Schadenszauber: Verursacht physischen Schaden. Mit AN als Zauber zum Entwaffnen denkbar.
 * Teilaspektzauber: Beschreibt Waffeneigenschaften wie Schärfe.
 * Illusionszauber: Erzeugt Illusionen von Waffen.
-* Kontrollzauber: Telekinesezauber, als Kontrollzauber der mittels KONFAR gebunden ist verbessert er die Kampfeigenschaften
-* Wahrnehmungszauber: Zum aufspüren vonPflanzen geeignet.
+* Kontrollzauber: Telekinesezauber oder als Kontrollzauber, der mittels KONFAR gebunden ist, verbessert er die
+Kampfeigenschaften.
+* Wahrnehmungszauber: Zum Aufspüren von Waffen geeignet.
 

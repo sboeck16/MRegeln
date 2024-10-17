@@ -8,5 +8,5 @@ Beschreibt übernatürliche Wesenheiten (Geister, Gespenster, körperlose Seelen
 * Schadenszauber: Mit AN kann die Seele des Ziels verkrüppelt werden.
 * Illusionszauber: Kann übernatürliche Wesenheiten darstellen.
 * Kontrollzauber: Kann übernatürliche Wesenheiten manipulieren oder in den Dienst zwingen.
-* Wahrnehmungszauber: Kann zum aufspüren übernatürlicher Wesenheiten und Effekte verwendet werden.
-* Herbeirufungszauber: Ruft einen Geist/Geistwesen hervor sofern die Spielwelt das zulässt. (OBSEK ANIMA)
+* Wahrnehmungszauber: Kann zum Aufspüren übernatürlicher Wesenheiten und Effekte verwendet werden.
+* Herbeirufungszauber: Ruft einen Geist/Geistwesen hervor, sofern die Spielwelt das zulässt. (OBSEK ANIMA)

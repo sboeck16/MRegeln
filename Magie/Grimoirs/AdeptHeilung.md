@@ -1,6 +1,6 @@
 ### Adeptgrimoir der Heilung
 
-Die Heilzauber hier können je nach Setting zu stark sein. Um diese abzuschwwächen kann die Verfügbarkeit eingeschränkt
+Die Heilzauber hier können je nach Setting zu stark sein. Um diese abzuschwächen, kann die Verfügbarkeit eingeschränkt
 sein oder die Energiekosten müssen anders/aufwendiger bezahlt werden.
 
 * Wundheilung (MANI, ES: 2, MW: 15, K: 5). Heilt mit einer Effektstärke von 2 (genaueres im Kapitel Kampf).

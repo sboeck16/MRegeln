@@ -1,6 +1,6 @@
 ### FERA (Tier)
 
-Farbrune, Natur, Kreis: 5: Komlpexität: 4
+Farbrune, Natur, Kreis: 5: Komplexität: 4
 
 Beschreibt Tiere. Durch Ergänzung von weiteren Runen können Tiere besser beschrieben werden (FERA LITAX könnten z.B.
 Vögel sein). Die Größe des beschriebenen Tieres hängt von der Effektstärke ab.

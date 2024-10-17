@@ -1,6 +1,6 @@
 ### HUMI (Mensch)
 
-Farbrune, Schicksal, Kreis: 7: Komlpexität: 6
+Farbrune, Schicksal, Kreis: 7: Komplexität: 6
 
 Beschreibt den Menschen und in gewisser Weise Intelligenz oder intelligente Wesen.
 
