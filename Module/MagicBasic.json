@@ -34,6 +34,7 @@
     },
     "additional" :[
         "Magie/Allgemein",
+        "Magie/Interpretation",
         "Magie/Antimagie",
         "Magie/Kurzregeln",
         "Magie/ÜbersichtRunen",

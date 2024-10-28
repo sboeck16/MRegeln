@@ -19,6 +19,9 @@ geworfen wird, um zu bestimmen, ob der Zauber funktioniert bzw. auslöst.
 * Energiekosten: Damit Zaubersprüche funktionieren, müssen sie versorgt werden. Das ist von der Quelle des Zaubers
 abhängig. Z.B. ein selbst gesprochener Zauber erschöpft den Zaubernden geistig, die Energiekosten beschreiben wie sehr.
 
+Es empfiehlt sich parallel das Kapitel Interpretation weiter unten zu lesen. In dem Kapitel wird erklärt, wie ein Zauberpruch
+zu analysieren ist.
+
 Zum schnellen Nachschlage gibt es am Ende des Kapitels einige Kurzregeln.
 
 Wie man sich gegen Zauber wehrt, wird im Unterkapitel Antimagie und Widerstand erklärt.
@@ -52,16 +55,17 @@ Die Regeln sollen mit ein paar Beispielen bereichert werden, hier eine kurze Vor
 ### Satzbau des Zaubers (Zauberbeginn, Zauberform, Zauberfarbe und Zauberende)
 
 Ein Zauberspruch besteht aus bis zu 4 Teilen. Diese Teile und die in diesen Teilen verwendeten Runenwort geben die erste
-Einordnung für die Interpretation.
+Einordnung für die Interpretation. In der Regel sollte nur jeweils eine Rune pro Teil des Zaubers vorhanden sein.
 
 * Zauberbeginn: Hier kommen allgemeingültige Worte zum Tragen. Sie beeinflussen, wo der Zauber wirkt. Das Ändern der
 Reichweite von "Berührung" zu "Blickfeld" passiert z.B. mit dem Wort "ORT" am Beginn des Zaubers.
 * Zauberform: Beschreibt, was ein Zauber bewirkt. Hier können Runenworte wie Geschoss oder Schild oder Kontrolle
 verwendet werden. Ein Zaubereffekt wird meist durch ein solches Wort beschrieben. Kann als das "Wie" des Zaubers
-verstanden werden.
-* Zauberfarbe: Ergänzt die Zauberform um das "Was". So wird aus dem Geschoss mit der Farbe Feuer das Feuergeschoss.
+verstanden werden. Mehr als ein Formwort führt in den meisten Fällen zu einem Fehlschlag. Um Formen zu verbinden, sollte
+im Unterkapitel der Rune "CONDUC" nachgeschaut werden.
+* Zauberfarbe: Ergänzt die Zauberform um das "Womit". So wird aus dem Geschoss mit der Farbe Feuer das Feuergeschoss.
 Oder aus dem Kontrollzauber mit dem Wort für Tiere ein Tierkontrollzauber. Zauberfarbe ist immer Pflicht. Andere Teile
-können weggelassen werden.
+können weggelassen werden. Ist mehr als ein Farbwort vorhanden, sollte das Kapitel über komplexe Magie gelesen werden.
 * Zauberendwort: Ähnlich der Zauberform bestimmen sie die Wirkung. Sie ergänzen die Form um eine weitere
 Interpretationsebene und/oder beschreiben die nachträgliche Wirkung. Für den Feuerball benötigen wir ein Feuergeschoss,
 das am Ende mit dem Wort Explosion beschrieben wird. Eine Illusion soll länger wirken, deswegen wird im Zauberendwort

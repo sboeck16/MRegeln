@@ -92,6 +92,43 @@ fortlaufende Wirkung haben.
 * Diese werden evtl. durch Wege, usw. modifiziert.
 * Je nach Setting und Art der Magie die Kosten bezahlen, z.B. indem Schaden auf dem geistigen Monitor notiert wird.
 
+### Beispiele
+
+#### Beispiel ORT TEL FLAM VAS AUM, Effektstärke 2
+
+Um diesen Zauber zu analysieren, teilen wir ihn in die vier Bestandteile auf. FLAM ist hier das alleinige Farbwort.
+Wir haben einen Feuerzauber. ORT ist das einzige Zauberbeginnwort, der Zauber wirkt auf Entfernung. Die Form ist durc
+das Runenwort TEL beschrieben. TEL steht für Geschoss. Die Zauberendworte sind VAS AUM. In der Beschreibung zu VAS
+lesen wir dass es das nächste Runenwort verstärkt. Es wirkt hier auf AUM, das als Zauberendwort nachträgliche
+Kontrolle über einen Zauber ermöglicht.
+
+Die Bedeutung als Fernkampf fähiges Feuergeschoss ist aus der Form, Farbe und dem Beginn abzulesen. Als Kampfzauber
+schauen wir im Kapitel Kampf nach, in dem erklärt wird, wie es wirkt.
+
+Ein nachgestelltes AUM bei einem Geschosszauber verbessert das Ergebnis beim Vergleich mit der Verteidigung des Ziels
+um 1 Punkt. Das VAS verdoppelt einfach nur diesen Bonus.
+
+* Komplexität der Runen ist ORT(1) + TEL(1) + FLAM(1) + VAS(2) + AUM(1) = 6
+* Komplexität der Effektstärke ist 3 (siehe Tabelle im Kapitel Effektstärke)
+* Gesamtkomplexität ist 9.
+* Kosten sind also auch 9.
+* Mindestwurf ist 19 (10 + 9). Bei Kampfzaubern ist das Ergebnis des Zauberwurfs gleichzeitig der Angriffswurf. Hier
+wird beim Vergleich mit der Verteidigung des Ziels aber noch der Bonus von 2 (siehe oben) angerechnet.
+
+#### Beispiel SCIEN MAGI KONIU, Effektstärke 2
+
+Ein Zauber, um die Strömungen der Magie wahrzunehmen.
+
+* Farbe ist MAGI, also ganz allgemein Magie.
+* Zauberbeginnworte gibt es nicht. Der Zauber muss auf Reichweite Berührung gewirkt werden.
+* Form ist SCIEN für Wahrnehmung.
+* Zauberendwort ist KONIU. Der Zauber wirkt so lange der Zaubernde ihn aufrechterhält.
+* Komplexität ist SCIEN(0) + MAGI(1) + KONIU(0) = 1
+* Komplexität der Effektstärke ist 3 (siehe Tabelle im Kapitel Effektstärke)
+* Gesamtkomplexität ist 4.
+* Kosten sind also auch 4. Die Aufrechterhaltungskosten sind 2 (4 / 3 und aufrunden).
+* Mindestwurf zum Wirken ist 14.
+
 ### Sonstiges
 
 * Häufig genutzte Zauber sollten notiert werden (z.B. auf dem Charakterblatt).
