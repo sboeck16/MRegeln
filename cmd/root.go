@@ -57,11 +57,16 @@ func checkErr(errs ...error) bool {
 	ret := false
 	for _, err := range errs {
 		if err != nil {
-			deb(lnxShellRed + errLogStr + lnxShellReset + " " + err.Error())
+			logError(err.Error())
 			ret = true
 		}
 	}
 	return ret
+}
+
+// quick and dirty shell printer
+func logError(text string) {
+	deb(lnxShellRed + errLogStr + lnxShellReset + " " + text)
 }
 
 /*

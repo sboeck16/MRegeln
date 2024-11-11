@@ -14,5 +14,10 @@
         "Magie" : [
             "Fokusmagier"
         ]
-    }
+    },
+    "author": "",
+    "title": "TERRA - NOCTIS",
+    "title_pic": "./pics/tn2.png",
+    "last_pic": "./pics/terra_noctis_map.png",
+    "first_page": "impr_terra_noctis"
 }

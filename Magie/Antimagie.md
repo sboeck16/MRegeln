@@ -1,4 +1,4 @@
-### Magiewiderstand
+## Magiewiderstand
 
 In einer stark magischen Welt muss es Möglichkeiten geben, sich gegen Magie zu schützen oder diese zu unterbinden und
 aufzulösen. Wie bereits in den Magieregeln erklärt, kann ein Lebewesen Magie widerstehen (oder die Magie zulassen).
@@ -21,7 +21,7 @@ widerstehen. Zur Not muss er den Schaden aushalten. Eine weitere Widerstandsprob
 * Veränderungszauber: Zauber, die den Körper eines Charakters manipulieren können anstatt mit Willenskraft auch mit
 Konstitution widerstanden werden.
 
-### Antimagie
+## Antimagie
 
 Um einen Zauber aufzulösen, gibt es verschiedene Möglichkeiten. Die Regel der Abstoßung erlaubt es möglicherweise, den
 ursprünglichen Zauber durch einen ähnlichen Zauber zu ersetzen. Sollte das versucht werden, so liefern sich beide

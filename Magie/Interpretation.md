@@ -92,6 +92,8 @@ fortlaufende Wirkung haben.
 * Diese werden evtl. durch Wege, usw. modifiziert.
 * Je nach Setting und Art der Magie die Kosten bezahlen, z.B. indem Schaden auf dem geistigen Monitor notiert wird.
 
+!direct!\includegraphics[width=\linewidth]{./pics/ZauberInterpr.drawio.png}
+
 ### Beispiele
 
 #### Beispiel ORT TEL FLAM VAS AUM, Effektstärke 2

@@ -73,7 +73,7 @@ das Wort für fortgesetzte Wirkung verwendet.
 
 Gültige Zauberformen grob dargestellt:
 
-§§table§Zauberteile§|m{1.5cm}|m{1.5cm}|m{1.5cm}|m{1.5cm}|m{5cm}|§small
+§§table§Zauberteile§|m{1.3cm}|m{1.3cm}|m{1.3cm}|m{1.3cm}|m{8cm}|§small
 
 | Beginn | Form | Farbe | Ende | Beschreibung oder Beispiel |
 |--------|------|-------|------|----------------------------|

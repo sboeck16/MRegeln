@@ -10,7 +10,7 @@ oder getrunken wird.
 * Grundsätzlich wird die Effektstärken durch die verwendeten Substanzen gestellt. D.H. für jedes alchemistische
 Erzeugnis wird bei der Herstellung die Effektstärke festgelegt.
 * Die Willenskraft der Substanz wird durch die Erfolgsgrade beim Herstellen bestimmt.
-* Die Wirkungsdauer von bleibenden Effekten ist die Szene / 10 Kampfrunden und sollte mit der Wirkungsdauer von
+* Die Wirkungsdauer von bleibenden Effekten ist die Szene bzw. 10 Kampfrunden und sollte mit der Wirkungsdauer von
 ähnlichen Zaubereffekten des Settings übereinstimmen. Zauber, die ohne KONIU wenig Sinn machen (Schild, Wahrnehmungs-
 oder Illusionseffekte) wirken so als wenn sie mit KONIU gewirkt wurden und die Kosten der Aufrechterhaltung bezahlt
 sind.

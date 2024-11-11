@@ -40,6 +40,13 @@ type RuleBook struct {
 
 	// additional md files after. need full path
 	Additional []string `json:"additional"`
+
+	// title page and last page
+	Title        string `json:"title,omitempty"`
+	Author       string `json:"author,omitempty"`
+	TitlePicture string `json:"title_pic,omitempty"`
+	LastPagePic  string `json:"last_pic,omitempty"`
+	FirstPageMD  string `json:"first_page,omitempty"`
 }
 
 func ReadRuleBook(path, file string) (*RuleBook, error) {

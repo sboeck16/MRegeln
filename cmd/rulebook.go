@@ -117,6 +117,20 @@ func RunRuleBook(cmd *cobra.Command, args []string) {
 	// get doc and parse lines
 	doc := getRuleBookDocHead()
 
+	// check for title page
+	if rules.Title != "" {
+		picStr := ""
+		if rules.TitlePicture != "" {
+			picStr = `\includegraphics[width=\linewidth]{` +
+				rules.TitlePicture + `}`
+
+		}
+		title := doc.AddTitle(rules.Title, rules.Author, picStr)
+		if rules.FirstPageMD != "" {
+			title.AddRaw(strings.Join(readMDFile(rules.FirstPageMD), "\n"))
+		}
+	}
+
 	// parse markdown
 	latex.WriteMDToLatexDoc(mdLines, doc)
 
@@ -135,6 +149,13 @@ func RunRuleBook(cmd *cobra.Command, args []string) {
 		if err == nil {
 			printTarget = fHandle
 		}
+	}
+
+	// add last page
+	if rules.LastPagePic != "" {
+		doc.AddRaw(`\newgeometry{top=1mm, bottom=1mm, left=0mm, right=1mm}`)
+		doc.AddRaw(`\includegraphics[width=\textwidth,height=\textheight]{` +
+			rules.LastPagePic + `}`)
 	}
 
 	// debug
@@ -172,6 +193,7 @@ func getRuleBookDocHead() *latex.Doc {
 	doc.AddPackage("hyperref", []string{})
 	doc.AddPackage("multicol", []string{})
 	doc.AddTOC()
+	doc.AddPackage("graphicx", []string{})
 	doc.AddPackage("xcolor", []string{})
 	doc.AddPackage("mdframed", []string{
 		"framemethod=tikz"})
