@@ -31,6 +31,7 @@ const (
 	creatureType     = "Typ"
 	creatureAttack   = "Angriff"
 	creatureMovement = "Bewegungstyp"
+	creatureMoveMod  = "Bewegung"
 	creatureArmor    = "Panzerung"
 
 	// Attack fields
@@ -39,9 +40,13 @@ const (
 	AttSkill   = "Fertigkeit"
 	AttAttr    = "Attribut"
 	AttPoolMod = "Modifikation"
-	AttModDam  = "Würfelmodifikation"
+	AttModDam  = "Schadensmodifikation"
 	AttModWC   = "Waffenwertmodifikation"
 	AttModStr  = "Stärkemodifikation"
+	AttModWV   = "Waffenwert"
+
+	// rules
+	creatureRules = "Regel"
 
 	creatureIsBeast  = 0
 	creatureIsHuman  = 1
@@ -184,7 +189,7 @@ func getSizeInfo(cr *Creature) (string, int, map[int]int, int) {
 		size = 9
 	}
 	return sizeToName[size], sizeToDCAndRows[size],
-		sizeToRowMod[cr.typ][size], 9 - size
+		sizeToRowMod[cr.typ][size], sizeToDef[size]
 }
 
 func getMovementStr(cr *Creature, moveType int) string {

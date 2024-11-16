@@ -1,6 +1,8 @@
 package cmd
 
 import (
+	"os"
+
 	"github.com/spf13/cobra"
 )
 
@@ -10,7 +12,8 @@ var (
 		Short: "Erzeugt eine MD Representation eines Monsters",
 		Long: "Mit Hilfe der angegebenen Datei wird ein Monster erzeugt. " +
 			"Weitere Parameter können angegeben werden um das Monster " +
-			"zu modifizieren",
+			"zu modifizieren. Ist kein Zielmonster angegeben so werden alle " +
+			"im Kreaturenverzeichnis erstellt und in der Zieldatei abgelegt.",
 		Run: CreateCreature,
 	}
 
@@ -18,6 +21,8 @@ var (
 	creatureDir    string
 	attackDir      string
 	tagDir         string
+	addTags        string
+	writeTo        string
 )
 
 func init() {
@@ -29,6 +34,10 @@ func init() {
 		"Kreaturen/Angriffe", "Verzeichnis mit den Angriffen")
 	creatureCmd.PersistentFlags().StringVarP(&targetCreature, "creaturefile", "c",
 		"", "Kreaturdatei, es werden alle generiert wenn leer.")
+	creatureCmd.PersistentFlags().StringVarP(&addTags, "tags", "t",
+		"", "Zusätzliche Tags, kommasepariert (ohne Leerzeichen)")
+	creatureCmd.PersistentFlags().StringVarP(&writeTo, "writeTo", "w",
+		"Spielleitung/Kreaturen.md", "Zieldatei für Kapitelgeneration")
 
 	rootCmd.AddCommand(creatureCmd)
 }
@@ -39,7 +48,18 @@ func CreateCreature(cmd *cobra.Command, args []string) {
 	loadAttacks()
 
 	if targetCreature == "" {
-		deb("TODO")
+		str := "## Kreaturen" + newLine + newLine
+		dir, err := os.ReadDir(creatureDir)
+		if checkErr(err) {
+			os.Exit(1)
+		}
+		for _, file := range dir {
+			if file.IsDir() {
+				continue
+			}
+			str += genCreature(file.Name()) + newLine
+		}
+		os.WriteFile(writeTo, []byte(str), 0644)
 	} else {
 		deb(genCreature(targetCreature))
 	}

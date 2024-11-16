@@ -3,6 +3,9 @@
 # compile up to date
 go build -o mcli
 
+# update creatures
+./mcli creature
+
 # create tex file
 ./mcli rulebook -s mistfall.json -t mistfall.tex -d mistfall_design.json
 ./mcli rulebook -s terra_noctis.json -t terra_noctis.tex -d mistfall_design.json

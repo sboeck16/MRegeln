@@ -2,9 +2,12 @@ Ein Raubtier gemäßigter und kalter Zonen. Bevorzugt die Jagd im Rudel und nutz
 Terra Noctis sind größer und schlauer. Dummerweise sehen sie den Menschen als Beutetier.
 
 * Raubtier
-* Stä: +1
 * Ges: +1
+* Stä: +1
 * Heimlichkeit: +1
 * Aufmerksamkeit: +1
 * Nahkampf: +1
-* Waffenklasse: +2
+* gefährlich
+* RudelUmwerfen
+* Angriff: Biß
+* Waffenklasse: -1

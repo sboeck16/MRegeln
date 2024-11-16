@@ -32,6 +32,13 @@
             "Schnellschütze",
             "Trickschütze"
         ],
+        "Führung" :[
+            "Anführen",
+            "Angriffsformation",
+            "Schützenformation",
+            "Taktik",
+            "Verteidigungsformation"
+       ],
         "Nahkampf": [
             "Fechter",
             "Festung",

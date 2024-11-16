@@ -8,7 +8,8 @@
         "Module/Enchantments.json",
         "Module/Alchemy.json",
         "Module/East.json",
-        "Module/EquipmentSurvival"
+        "Module/EquipmentSurvival.json",
+        "Module/DMTerraNoctis.json"
     ],
     "paths": {
         "Magie" : [
@@ -17,7 +18,7 @@
     },
     "author": "",
     "title": "TERRA - NOCTIS",
-    "title_pic": "./pics/tn2.png",
+    "title_pic": "./pics/terra_noctis_cover.png",
     "last_pic": "./pics/terra_noctis_map.png",
     "first_page": "impr_terra_noctis"
 }

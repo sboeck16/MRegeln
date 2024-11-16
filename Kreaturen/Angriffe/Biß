@@ -3,7 +3,7 @@ Beschreibung:
 Fertigkeit: Nahkampf
 Attribut: Stä
 Attribut: Ges
-Modifikation: 0
-Würfelmodifikation: 0
-Waffenwertmodifikation: 0
-Stärkemodifikation: 0
+Modifikation: -1
+Schadensmodifikation: +1
+Waffenwertmodifikation: 1
+Stärkemodifikation: 1

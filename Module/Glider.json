@@ -6,12 +6,7 @@
     },
     "paths": {
         "Führung" :[
-            "Anführen",
-            "Angriffsformation",
-            "Fliegerformation",
-            "Schützenformation",
-            "Taktik",
-            "Verteidigungsformation"
+            "Fliegerformation"
        ],
         "Gleiterflug": [
             "Bomber",

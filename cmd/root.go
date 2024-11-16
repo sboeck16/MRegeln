@@ -3,6 +3,7 @@ package cmd
 import (
 	"fmt"
 	"os"
+	"strings"
 
 	"github.com/spf13/cobra"
 )
@@ -83,4 +84,45 @@ func sameArr[T comparable](a, b []T) bool {
 		}
 	}
 	return true
+}
+
+/*
+MDTable generates a table where row add index 0 is used as head. generates a
+human friendly output.
+*/
+func MDTable(inp [][]string) string {
+	if len(inp) == 0 {
+		logError("tried to gen a md table with empty input")
+		return ""
+	}
+	// get size
+	lens := make([]int, len(inp[0]))
+	for rowInd := range inp {
+		for colInd := range inp[0] {
+			field := inp[rowInd][colInd]
+			if len(field) > lens[colInd] {
+				lens[colInd] = len(field)
+			}
+		}
+	}
+	ret := "|"
+	headDiv := "|"
+	for colInd := range inp[0] {
+		field := inp[0][colInd]
+		ret += field + strings.Repeat(" ", lens[colInd]-len(field)) + "|"
+		headDiv += strings.Repeat("-", lens[colInd]) + "|"
+	}
+	ret += newLine + headDiv + newLine
+	for rowInd := range inp {
+		if rowInd == 0 {
+			continue
+		}
+		ret += "|"
+		for colInd := range inp[0] {
+			field := inp[rowInd][colInd]
+			ret += field + strings.Repeat(" ", lens[colInd]-len(field)) + "|"
+		}
+		ret += newLine
+	}
+	return ret
 }

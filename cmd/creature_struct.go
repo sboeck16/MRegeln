@@ -13,23 +13,13 @@ var (
 
 	// to be put into a table they need to be ordered
 	attributesPrint = [][]string{
-		{AttrStr, AttrPer, AttrCha},
-		{AttrDex, AttrInt, ""},
-		{AttrCon, AttrWil, ""},
+		{AttrStr, AttrPer, AttrCha, SkillMelee, skillAthletik},
+		{AttrDex, AttrInt, "", SkillRanged, SkillStealth},
+		{AttrCon, AttrWil, "", SkillMagic, SkillPercept},
 	}
 
-	// for printing into md table
-	skillsPrint = [][]string{
-		{SkillMelee, skillAthletik},
-		{SkillRanged, SkillStealth},
-		{SkillMagic, SkillPercept},
-	}
-
-	crTableSizes = []int{8, 19}
-	attrTHead1   = "| k.Attr | g.Attr | s.Attr |"
-	attrTHead2   = "|--------|--------|--------|"
-	skillHead1   = "| Fertigkeit Kampf | Fertigkeit sonst. |"
-	skillHead2   = "|------------------|-------------------|"
+	creatHead = []string{"k.Attr", "g.Attr", "s.Attr", "Fertigkeiten Kampf",
+		"Fertigkeiten sonst."}
 
 	tagList    = map[string]string{}
 	attackList = map[string]*Attack{}
@@ -61,6 +51,7 @@ type Creature struct {
 	moveMod        int
 	armor          int
 	armorMod       int
+	rules          []string
 }
 
 func NewCreature() *Creature {
@@ -79,30 +70,54 @@ func (cr *Creature) String() string {
 	ret := ""
 
 	// name
-	ret += "#### " + cr.name + newLine + newLine
+	ret += "### " + cr.name + newLine + newLine
 
 	// text
-	ret += strings.Join(cr.text, newLine) + newLine + newLine
+	ret += strings.Join(cr.text, newLine) + newLine
 
-	// table: Attr / Skills
-	ret += attrTHead1 + skillHead1 + newLine
-	ret += attrTHead2 + skillHead2 + newLine
+	// special rules
+	for _, rule := range cr.rules {
+		ret += "* " + rule + newLine
+	}
+
+	// stats table
+	table := [][]string{creatHead}
+	for rowInd := range attributesPrint {
+		newRow := []string{}
+		for colInd := range attributesPrint[0] {
+			field := attributesPrint[rowInd][colInd]
+			if val, ok := cr.attributes[field]; ok {
+				newRow = append(newRow, field+": "+strconv.Itoa(val))
+			} else if val, ok := cr.skills[field]; ok {
+				newRow = append(newRow, field+": "+strconv.Itoa(val))
+			} else {
+				newRow = append(newRow, field)
+			}
+		}
+		table = append(table, newRow)
+	}
+	ret += newLine
+	ret += "§§table§" + cr.name + "§|m{15mm}|m{15mm}|m{15mm}|m{35mm}|m{35mm}|§small"
+	ret += newLine + newLine
+	ret += MDTable(table) + newLine + newLine
+	// maybe add other skills?
 
 	// defences
 	sizeName, rows, modMap, defMod := getSizeInfo(cr)
-	ret += "Verteidigung: " + strconv.Itoa(10+defMod+cr.attributes[AttrDex]) +
+	ret += "* Verteidigung: " + strconv.Itoa(defMod+cr.attributes[AttrDex]) +
 		newLine
-	ret += "Rüstung:      " + strconv.Itoa(cr.armor+cr.armorMod) + newLine
-	ret += newLine
+	ret += "* Rüstung:      " + strconv.Itoa(cr.armor+cr.armorMod) + newLine
+
+	// size
+	ret += "* Größe: " + sizeName + newLine
 
 	// movements
 	if len(cr.movements) == 0 {
 		cr.movements = append(cr.movements, move4Legs)
 	}
 	for _, moveTyp := range cr.movements {
-		ret += getMovementStr(cr, moveTyp) + newLine
+		ret += "* " + getMovementStr(cr, moveTyp) + newLine
 	}
-	ret += newLine
 
 	// weapons
 	for _, att := range cr.attacks {
@@ -110,18 +125,18 @@ func (cr *Creature) String() string {
 	}
 	ret += newLine
 
-	// size
-	ret += "Größe: " + sizeName + newLine + newLine
-
 	// damage table
 	cols := 5 + cr.attributes[AttrCon]
-	ret += cr.MDMonitor(rows, cols, modMap)
+	ret += cr.MDMonitor(cr.name, rows, cols, modMap)
 
 	return ret
 }
 
-func (cr *Creature) MDMonitor(rows, cols int, modMap map[int]int) string {
-	ret := ""
+func (cr *Creature) MDMonitor(
+	name string, rows, cols int, modMap map[int]int) string {
+	ret := "§§table§" + name + "HP§|m{6mm}"
+	ret += strings.Repeat("|m{3mm}", cols) + "|§small"
+	ret += newLine + newLine
 	ret += "|M.|" + strings.Repeat("#|", cols) + newLine
 	ret += "|--|" + strings.Repeat("-|", cols) + newLine
 
@@ -133,7 +148,7 @@ func (cr *Creature) MDMonitor(rows, cols int, modMap map[int]int) string {
 		if lastmod != 0 {
 			ret += "|" + strconv.Itoa(lastmod) + "|"
 		} else {
-			ret += "|  |"
+			ret += "| 0|"
 		}
 		ret += strings.Repeat(" |", cols) + newLine
 	}
@@ -170,12 +185,20 @@ func generateCreatureFromFile(targetFile string) *Creature {
 	if checkErr(err) {
 		os.Exit(1)
 	}
+	crText := string(raw)
 
 	cr := NewCreature()
 	cr.name = targetFile
 
+	// additional tags
+	if addTags != "" {
+		for _, tag := range strings.Split(addTags, ",") {
+			crText += "* " + tag + newLine
+		}
+	}
+
 	// gather tags and mods
-	cr.AddTag(string(raw))
+	cr.AddTag(crText)
 
 	// calc resulting attributes and skills
 	for _, attr := range AttrList {
@@ -222,6 +245,10 @@ func (cr *Creature) AddTag(tagString string) {
 				} else {
 					logError("unknown attack: " + m[2])
 				}
+				continue
+			}
+			if m[1] == creatureRules {
+				cr.rules = append(cr.rules, m[2])
 				continue
 			}
 			nr, err := strconv.Atoi(m[2])
@@ -292,7 +319,7 @@ func (cr *Creature) AddTag(tagString string) {
 				cr.armorMod += nr
 			case creatureDCMod:
 				cr.damageClassMod += nr
-			case creatureMovement:
+			case creatureMoveMod:
 				cr.moveMod += nr
 			default:
 				logError("unknown mod feature: " + m[1] + ":" + m[2])
@@ -314,6 +341,7 @@ type Attack struct {
 	Skill    string
 	Attr     []string
 	// attacks may have different boni
+	WVMod       int
 	PoolMod     int
 	DcModDamage int
 	DcModWC     int
@@ -326,7 +354,7 @@ func (att *Attack) genText(creature *Creature) string {
 	dc += creature.damageClassMod
 
 	dDice := getDCDice(dc + att.DcModDamage)
-	weapVal := strconv.Itoa(getDCWeaponVal(dc + att.DcModWC))
+	weapVal := strconv.Itoa(getDCWeaponVal(dc+att.DcModWC) + att.WVMod)
 	strBon := getDCStrBonus(dc + att.DcModStr)
 
 	// get best attribut and default to dex
@@ -343,7 +371,7 @@ func (att *Attack) genText(creature *Creature) string {
 	// generate string
 	ret := att.Name + ": " + strconv.Itoa(pool) + ", " + dDice + "+"
 	ret += strconv.Itoa((strBon * creature.attributes[AttrStr]) / 2)
-	ret += " WV: " + weapVal + "."
+	ret += " WW: " + weapVal + "."
 	if att.AddDescr != "" {
 		ret += " " + att.AddDescr
 	}
@@ -393,6 +421,9 @@ func loadAttacks() {
 			case AttModStr:
 				mod, _ := strconv.Atoi(m[2]) // #nosec
 				newAttack.DcModStr = mod
+			case AttModWV:
+				mod, _ := strconv.Atoi(m[2]) // #nosec
+				newAttack.WVMod = mod
 			}
 		}
 		attackList[newAttack.Name] = newAttack
