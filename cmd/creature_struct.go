@@ -52,6 +52,7 @@ type Creature struct {
 	armor          int
 	armorMod       int
 	rules          []string
+	defMod         int
 }
 
 func NewCreature() *Creature {
@@ -104,8 +105,8 @@ func (cr *Creature) String() string {
 
 	// defences
 	sizeName, rows, modMap, defMod := getSizeInfo(cr)
-	ret += "* Verteidigung: " + strconv.Itoa(defMod+cr.attributes[AttrDex]) +
-		newLine
+	ret += "* Verteidigung: " + strconv.Itoa(
+		defMod+cr.defMod+cr.attributes[AttrDex]) + newLine
 	ret += "* Rüstung:      " + strconv.Itoa(cr.armor+cr.armorMod) + newLine
 
 	// size
@@ -282,6 +283,8 @@ func (cr *Creature) AddTag(tagString string) {
 				cr.movements = append(cr.movements, nr)
 			case creatureArmor:
 				cr.armor = nr
+			case creatureDefMod:
+				cr.defMod = nr
 			default:
 				logError("unknown set feature: " + m[1] + ":" + m[2])
 			}

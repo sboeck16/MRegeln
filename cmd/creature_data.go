@@ -33,6 +33,7 @@ const (
 	creatureMovement = "Bewegungstyp"
 	creatureMoveMod  = "Bewegung"
 	creatureArmor    = "Panzerung"
+	creatureDefMod   = "Verteidigung"
 
 	// Attack fields
 	AttName    = "Name"
