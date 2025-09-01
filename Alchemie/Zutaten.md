@@ -54,7 +54,7 @@
 | Minze | 2 | 2 | KONFAR, LITAX+ |
 | Bittergrün | 3 | 2 | AUM, MANI-, EBOR+ |
 | Nachtschatten |3 | 2 | KONFAR, MANI-, MORT++ |
-| Wolfsblatt | 3 | 2 | MUTAR, FERA |
+| Wolfsblatt | 3 | 2 | MUTAR, FERA+ |
 | Brennnessel | 3 | 2 | AUM, FLAM+ |
 | Silberwurz | 3 | 2 | AUM, PRIX+ |
 | Schwarzwurz | 3 | 2 | KONFAR, NOX+ |
