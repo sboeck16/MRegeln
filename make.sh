@@ -33,4 +33,4 @@ mv mistfall.pdf pdfs/ || exit 1
 mv terra_noctis.pdf pdfs/ || exit 1
 
 # view it
-firefox pdfs/terra_noctis.pdf
+firefox pdfs/mistfall.pdf

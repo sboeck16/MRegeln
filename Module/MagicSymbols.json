@@ -1,0 +1,40 @@
+{
+    "skills": {
+        "Akademisch" : [
+            "Magiekunde"
+        ],
+        "Magie": [
+            "Symbolmagie"
+        ]
+    },
+    "paths": {
+        "Symbolmagie": [
+            "Heilung",
+            "Illusion",
+            "Kalligraphie",
+            "Kampf",
+            "Nekromantie",
+            "Symbolmagier",
+            "Veränderung"
+        ]
+    },
+    "masteries": {
+        "Symbolmagie" : [
+            "Heilung",
+            "Illusion",
+            "Kalligraphie",
+            "Kampf",
+            "Nekromantie",
+            "Symbolmagier",
+            "Veränderung"
+        ]
+    },
+    "additional" :[
+        "Symbolmagie/Symbolmagie",
+        "Symbolmagie/Heilung",
+        "Symbolmagie/Illusion",
+        "Symbolmagie/Kampf",
+        "Symbolmagie/Nekromantie",
+        "Symbolmagie/Veränderung"
+    ]
+}
