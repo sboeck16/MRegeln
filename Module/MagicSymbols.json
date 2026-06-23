@@ -15,7 +15,7 @@
             "Kampf",
             "Nekromantie",
             "Symbolmagier",
-            "Veränderung"
+            "Veraenderung"
         ]
     },
     "masteries": {
@@ -26,7 +26,7 @@
             "Kampf",
             "Nekromantie",
             "Symbolmagier",
-            "Veränderung"
+            "Veraenderung"
         ]
     },
     "additional" :[
@@ -35,6 +35,6 @@
         "Symbolmagie/Illusion",
         "Symbolmagie/Kampf",
         "Symbolmagie/Nekromantie",
-        "Symbolmagie/Veränderung"
+        "Symbolmagie/Veraenderung"
     ]
 }
