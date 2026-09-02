@@ -7,8 +7,7 @@ die hier vorgestellten Zauber andere Bedingungen wie den Zugriff auf spezielle E
 (Lebensenergie) für einen Tag. Bei extremer Belastung weniger. Hunger und Durst spürt das Ziel trotzdem.
 * Luftloser Atem (CENSA LITAX CONDUC MANI KONFAR, ES: 1, MW: 19, K: 9). Der Charakter kann für 10min auf das Atmen
 verzichten, ohne dabei Einschränkungen zu erleiden.
-* Große Heilung (CENSA MANI, ES: 2, MW: 20, K: 10). Starke Heilung, die auch Körperteile bis zur Größe einer Hand
-oder eines Fußes wiederherstellt. Mit höherer Effektstärke sind auch größere Körperteile möglich.
+* Große Heilung (CENSA MANI, ES: 2, MW: 20, K: 10). Starke Heilung, die katastrophalen Schaden heilen kann. Mit dem Weg der Heilung ist so auch die Heilung von verlorenen Körperteilen möglich. Hier entscheidet der Spielleiter über benötigte Effektstärken.
 * Wiederbelebung (DIVIN MANI CONDUC DIVIN HUMI, MW: 30, ES: 2, K: 20). Göttliche Magie, die einen Toten zurückbringen
 kann. Die Effektstärke regelt, wie "weit" der zu Erweckende weg ist (Zeit, Alter, will er aus einem Totenreich zurück?).
 Dieser Zauber bleibt klar unter Spielleitervorbehalt. Es könnte aber auch auf das zweite DIVIN verzichtet werden

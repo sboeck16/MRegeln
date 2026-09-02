@@ -15,7 +15,7 @@ Eine Möglichkeit ist es, die CENSA-Rune vor den Spielercharakteren verborgen zu
 haben, die überirdisch erscheinen. Hier ein paar Beispiele, wie die CENSA Magie gedacht ist:
 
 * CENSA FLAM: Ruft elementares Feuer herbei, das eine Zeit existieren wird. Kann zum Schmelzen von Metall verwendet werden.
-* CENSA MANI: Kann Verkrüppelungen heilen. Mit dem richtigen Weg kann so auch ein Körperteil wiederhergestellt werden.
+* CENSA MANI: Kann katastrophalen Schaden heilen. Mit dem richtigen Weg kann so auch ein Körperteil wiederhergestellt werden.
 * MANARE CENSA MAGI: Könnte die grundlegende Energie eines Gegenstands absaugen und ihn so nicht magisch machen.
 * ORT TEL CENSA AN MANI: Wenn es wirklich weh tun soll. Dieser Zauber wird katastrophalen und schwer heilbaren Schaden
 bei Lebewesen verursachen.
