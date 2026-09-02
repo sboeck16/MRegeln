@@ -1,0 +1,5 @@
+#### Schicksalsweber
+
+* Glück im Unglück: Die Wiederholungswürfe des Charakters sind um 1 erhöht. Falls es relevant ist, so hat der Charakter einen kritischen Erfolg schon bei einem Würfelergebnis von 5 über dem Mindestwurf, während ein Patzer erst bei einem Ergebnis von 8 unter dem Mindestwurf entsteht.
+* Kosmische Umstände: Der Charakter kann das Ergebnis einer Würfelpoolprobe um 1 erhöhen. Dafür gibt er einen Wiederholungswurf aus. Alternativ kann er das Ergebnis einer Würfelprobe, die keine Poolprobe, wie Schadenswürfe um 3 verändern. Das ist nur für seine Proben möglich und nur einmal pro Probe. Die Anzahl der Wiederholungswürfe steigt um 1.
+* Hand des Schicksals: Wird eine Würfelpoolprobe mit einem Wiederholungswurf des Charakters wiederholt, so gelten folgende Regeln: Die Ergebnisse aller gemachten Proben werden sich gemerkt, es kommt nicht automatisch die letzte, sondern die beste Probe zur Geltung. Für je drei Wiederholungen durch Wiederholungswürfe gibt es eine Wiederholung gratis.

@@ -4,17 +4,22 @@
     "dices":        ["WieWas"],
     "paths": {
         "AllgemeinHandwerk": [
+            "Athlet",
             "Fokus",
             "Handwerk",
             "Juggernaut",
             "Schicksal",
+            "Tarnung",
             "Wissen"
         ]
     },
     "masteries": {
         "AllgemeinHandwerk": [
-            "MeisterHandwerk",
+            "Athlet",
             "KonzentrationsMeister",
+            "MeisterHandwerk",
+            "SchicksalWeber",
+            "Tarnung",
             "Überlebensmeister"
         ]
     }

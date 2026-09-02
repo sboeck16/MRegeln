@@ -1,6 +1,6 @@
 module rpg/MDRegeln
 
-go 1.23
+go 1.26.7
 
 require (
 	github.com/sboeck16/MDLatex v0.0.0-20231011211953-fae7dffb4b6e

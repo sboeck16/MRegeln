@@ -25,6 +25,7 @@ Verwandelt das bemalte und freiwillige menschliche Ziel in ein normal großes Ti
 ##### Handwerkssymbol (AUM SICR KONFAR, ES 2)
 Gibt einen Bonus für handwerkliche Tätigkeiten, indem die Kontrolle mit Werkzeugen verbessert wird. Der Bonus ist 1W. Spezielle Symbole, die nur für eine handwerkliche Tätigkeit gelten, geben stattdessen 2W. Solche speziellen Symbole verwenden den gleichen Mindestwurf und verursachen die gleichen Kosten.
 * Mindestwurf: 17, 3Si
+
 ##### Magieforensik (VAS SCIEN MAGI, ES 3)
 Dieses recht starke Symbol ermöglicht es einer Person, Magieströme und Spuren von Magieanwendung zu sehen. Dieses recht neue Symbol wird zur Aufklärung von magischen Verbrechen verwendet.
 * Mindestwurf: 19, 4Si
